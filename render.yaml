@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: crex-server
+    env: node
+    buildCommand: npm install
+    startCommand: node crex-server.js
+    envVars:
+      - key: NODE_ENV
+        value: production 

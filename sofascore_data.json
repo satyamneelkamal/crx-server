@@ -1,0 +1,1304 @@
+[
+  {
+    "teamName": "Australia (Innings 1)",
+    "summary": {
+      "score": 474,
+      "wickets": 10,
+      "overs": 122.4,
+      "extras": {
+        "total": 27,
+        "wide": 10,
+        "noBall": 6,
+        "bye": 0,
+        "legBye": 11,
+        "penalty": 0
+      }
+    },
+    "batting": [
+      {
+        "name": "Sam Konstas",
+        "runs": 60,
+        "balls": 65,
+        "fours": 6,
+        "sixes": 2,
+        "dismissal": "lbw b Ravindra Jadeja",
+        "strikeRate": "92.31"
+      },
+      {
+        "name": "Usman Khawaja",
+        "runs": 57,
+        "balls": 121,
+        "fours": 6,
+        "sixes": 0,
+        "dismissal": "c KL Rahul b Jasprit Bumrah",
+        "strikeRate": "47.11"
+      },
+      {
+        "name": "Marnus Labuschagne",
+        "runs": 72,
+        "balls": 145,
+        "fours": 7,
+        "sixes": 0,
+        "dismissal": "c Virat Kohli b Washington Sundar",
+        "strikeRate": "49.66"
+      },
+      {
+        "name": "Steven Smith",
+        "runs": 140,
+        "balls": 197,
+        "fours": 13,
+        "sixes": 3,
+        "dismissal": "b Akash Deep",
+        "strikeRate": "71.07"
+      },
+      {
+        "name": "Travis Head",
+        "runs": 0,
+        "balls": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "b Jasprit Bumrah",
+        "strikeRate": "0.00"
+      },
+      {
+        "name": "Mitchell Marsh",
+        "runs": 4,
+        "balls": 13,
+        "fours": 1,
+        "sixes": 0,
+        "dismissal": "c Rishabh Pant b Jasprit Bumrah",
+        "strikeRate": "30.77"
+      },
+      {
+        "name": "Alex Carey",
+        "runs": 31,
+        "balls": 41,
+        "fours": 0,
+        "sixes": 1,
+        "dismissal": "c Rishabh Pant b Akash Deep",
+        "strikeRate": "75.61"
+      },
+      {
+        "name": "Pat Cummins",
+        "runs": 49,
+        "balls": 63,
+        "fours": 7,
+        "sixes": 0,
+        "dismissal": "c Nitish Kumar Reddy b Ravindra Jadeja",
+        "strikeRate": "77.78"
+      },
+      {
+        "name": "Mitchell Starc",
+        "runs": 15,
+        "balls": 36,
+        "fours": 0,
+        "sixes": 1,
+        "dismissal": "b Ravindra Jadeja",
+        "strikeRate": "41.67"
+      },
+      {
+        "name": "Nathan Lyon",
+        "runs": 13,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 0,
+        "dismissal": "lbw b Jasprit Bumrah",
+        "strikeRate": "72.22"
+      },
+      {
+        "name": "Scott Boland",
+        "runs": 6,
+        "balls": 36,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "Not out",
+        "strikeRate": "16.67"
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Jasprit Bumrah",
+        "overs": 28.4,
+        "maidens": 9,
+        "runs": 99,
+        "wickets": 4,
+        "wides": 0,
+        "noBalls": 3,
+        "economy": "3.49"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "overs": 23,
+        "maidens": 3,
+        "runs": 122,
+        "wickets": 0,
+        "wides": 2,
+        "noBalls": 0,
+        "economy": "5.30"
+      },
+      {
+        "name": "Akash Deep",
+        "overs": 26,
+        "maidens": 8,
+        "runs": 94,
+        "wickets": 2,
+        "wides": 0,
+        "noBalls": 2,
+        "economy": "3.62"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "overs": 23,
+        "maidens": 4,
+        "runs": 78,
+        "wickets": 3,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "3.39"
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "overs": 7,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "3.00"
+      },
+      {
+        "name": "Washington Sundar",
+        "overs": 15,
+        "maidens": 2,
+        "runs": 49,
+        "wickets": 1,
+        "wides": 0,
+        "noBalls": 1,
+        "economy": "3.27"
+      }
+    ],
+    "partnerships": [
+      {
+        "player1": "Sam Konstas",
+        "player2": "Usman Khawaja",
+        "runs": 89,
+        "balls": 116
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Usman Khawaja",
+        "runs": 65,
+        "balls": 150
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Steven Smith",
+        "runs": 83,
+        "balls": 127
+      },
+      {
+        "player1": "Travis Head",
+        "player2": "Steven Smith",
+        "runs": 3,
+        "balls": 8
+      },
+      {
+        "player1": "Mitchell Marsh",
+        "player2": "Steven Smith",
+        "runs": 6,
+        "balls": 15
+      },
+      {
+        "player1": "Alex Carey",
+        "player2": "Steven Smith",
+        "runs": 53,
+        "balls": 80
+      },
+      {
+        "player1": "Pat Cummins",
+        "player2": "Steven Smith",
+        "runs": 112,
+        "balls": 135
+      },
+      {
+        "player1": "Mitchell Starc",
+        "player2": "Steven Smith",
+        "runs": 44,
+        "balls": 56
+      },
+      {
+        "player1": "Nathan Lyon",
+        "player2": "Steven Smith",
+        "runs": 0,
+        "balls": 4
+      },
+      {
+        "player1": "Nathan Lyon",
+        "player2": "Scott Boland",
+        "runs": 19,
+        "balls": 51
+      }
+    ],
+    "fallOfWickets": [
+      {
+        "wicketNumber": 1,
+        "score": 89,
+        "player": "Sam Konstas",
+        "shortName": "Sam Konstas",
+        "over": 19.2,
+        "wicketType": "LBW"
+      },
+      {
+        "wicketNumber": 2,
+        "score": 154,
+        "player": "Usman Khawaja",
+        "shortName": "U Khawaja",
+        "over": 44.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 3,
+        "score": 237,
+        "player": "Marnus Labuschagne",
+        "shortName": "Marnus Labuschagne",
+        "over": 65.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 4,
+        "score": 240,
+        "player": "Travis Head",
+        "shortName": "Travis Head",
+        "over": 66.3,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 5,
+        "score": 246,
+        "player": "Mitchell Marsh",
+        "shortName": "Mitchell Marsh",
+        "over": 68.6,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 6,
+        "score": 299,
+        "player": "Alex Carey",
+        "shortName": "Alex Carey",
+        "over": 82.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 7,
+        "score": 411,
+        "player": "Pat Cummins",
+        "shortName": "Pat Cummins",
+        "over": 104.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 8,
+        "score": 455,
+        "player": "Mitchell Starc",
+        "shortName": "Mitchell Starc",
+        "over": 113.3,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 9,
+        "score": 455,
+        "player": "Steven Smith",
+        "shortName": "Steven Smith",
+        "over": 114.1,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 10,
+        "score": 474,
+        "player": "Nathan Lyon",
+        "shortName": "Nathan Lyon",
+        "over": 122.4,
+        "wicketType": "LBW"
+      }
+    ]
+  },
+  {
+    "teamName": "India (Innings 2)",
+    "summary": {
+      "score": 369,
+      "wickets": 10,
+      "overs": 119.3,
+      "extras": {
+        "total": 11,
+        "wide": 5,
+        "noBall": 4,
+        "bye": 0,
+        "legBye": 2,
+        "penalty": 0
+      }
+    },
+    "batting": [
+      {
+        "name": "Yashasvi Jaiswal",
+        "runs": 82,
+        "balls": 118,
+        "fours": 11,
+        "sixes": 1,
+        "dismissal": "Not out",
+        "strikeRate": "69.49"
+      },
+      {
+        "name": "Rohit Sharma",
+        "runs": 3,
+        "balls": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Scott Boland b Pat Cummins",
+        "strikeRate": "60.00"
+      },
+      {
+        "name": "KL Rahul",
+        "runs": 24,
+        "balls": 42,
+        "fours": 3,
+        "sixes": 0,
+        "dismissal": "b Pat Cummins",
+        "strikeRate": "57.14"
+      },
+      {
+        "name": "Virat Kohli",
+        "runs": 36,
+        "balls": 86,
+        "fours": 4,
+        "sixes": 0,
+        "dismissal": "c Alex Carey b Scott Boland",
+        "strikeRate": "41.86"
+      },
+      {
+        "name": "Akash Deep",
+        "runs": 0,
+        "balls": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Nathan Lyon b Scott Boland",
+        "strikeRate": "0.00"
+      },
+      {
+        "name": "Rishabh Pant",
+        "runs": 28,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 0,
+        "dismissal": "c Nathan Lyon b Scott Boland",
+        "strikeRate": "75.68"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "runs": 17,
+        "balls": 51,
+        "fours": 3,
+        "sixes": 0,
+        "dismissal": "lbw b Nathan Lyon",
+        "strikeRate": "33.33"
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "runs": 114,
+        "balls": 189,
+        "fours": 11,
+        "sixes": 1,
+        "dismissal": "c Mitchell Starc b Nathan Lyon",
+        "strikeRate": "60.32"
+      },
+      {
+        "name": "Washington Sundar",
+        "runs": 50,
+        "balls": 162,
+        "fours": 1,
+        "sixes": 0,
+        "dismissal": "c Steven Smith b Nathan Lyon",
+        "strikeRate": "30.86"
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "runs": 0,
+        "balls": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c U Khawaja b Pat Cummins",
+        "strikeRate": "0.00"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "runs": 4,
+        "balls": 15,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "Not out",
+        "strikeRate": "26.67"
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Mitchell Starc",
+        "overs": 25,
+        "maidens": 2,
+        "runs": 86,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 3,
+        "economy": "3.44"
+      },
+      {
+        "name": "Pat Cummins",
+        "overs": 29,
+        "maidens": 6,
+        "runs": 89,
+        "wickets": 3,
+        "wides": 1,
+        "noBalls": 0,
+        "economy": "3.07"
+      },
+      {
+        "name": "Scott Boland",
+        "overs": 27,
+        "maidens": 7,
+        "runs": 57,
+        "wickets": 3,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "2.11"
+      },
+      {
+        "name": "Nathan Lyon",
+        "overs": 28.3,
+        "maidens": 4,
+        "runs": 96,
+        "wickets": 3,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "3.39"
+      },
+      {
+        "name": "Mitchell Marsh",
+        "overs": 7,
+        "maidens": 1,
+        "runs": 28,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 1,
+        "economy": "4.00"
+      },
+      {
+        "name": "Travis Head",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "3.67"
+      }
+    ],
+    "partnerships": [
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Rohit Sharma",
+        "runs": 8,
+        "balls": 12
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "KL Rahul",
+        "runs": 43,
+        "balls": 78
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Virat Kohli",
+        "runs": 102,
+        "balls": 158
+      },
+      {
+        "player1": "Akash Deep",
+        "player2": "Virat Kohli",
+        "runs": 1,
+        "balls": 7
+      },
+      {
+        "player1": "Akash Deep",
+        "player2": "Rishabh Pant",
+        "runs": 5,
+        "balls": 14
+      },
+      {
+        "player1": "Ravindra Jadeja",
+        "player2": "Rishabh Pant",
+        "runs": 32,
+        "balls": 67
+      },
+      {
+        "player1": "Ravindra Jadeja",
+        "player2": "Nitish Kumar Reddy",
+        "runs": 30,
+        "balls": 55
+      },
+      {
+        "player1": "Washington Sundar",
+        "player2": "Nitish Kumar Reddy",
+        "runs": 127,
+        "balls": 285
+      },
+      {
+        "player1": "Jasprit Bumrah",
+        "player2": "Nitish Kumar Reddy",
+        "runs": 2,
+        "balls": 9
+      },
+      {
+        "player1": "Mohammed Siraj",
+        "player2": "Nitish Kumar Reddy",
+        "runs": 19,
+        "balls": 36
+      }
+    ],
+    "fallOfWickets": [
+      {
+        "wicketNumber": 1,
+        "score": 8,
+        "player": "Rohit Sharma",
+        "shortName": "Rohit Sharma",
+        "over": 1.6,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 2,
+        "score": 51,
+        "player": "KL Rahul",
+        "shortName": "KL Rahul",
+        "over": 14.6,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 3,
+        "score": 153,
+        "player": "Yashasvi Jaiswal",
+        "shortName": "Yashasvi Jaiswal",
+        "over": 40.6,
+        "wicketType": "Run out"
+      },
+      {
+        "wicketNumber": 4,
+        "score": 154,
+        "player": "Virat Kohli",
+        "shortName": "Virat Kohli",
+        "over": 42.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 5,
+        "score": 159,
+        "player": "Akash Deep",
+        "shortName": "Akash Deep",
+        "over": 44.3,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 6,
+        "score": 191,
+        "player": "Rishabh Pant",
+        "shortName": "Rishabh Pant",
+        "over": 55.4,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 7,
+        "score": 221,
+        "player": "Ravindra Jadeja",
+        "shortName": "Ravindra Jadeja",
+        "over": 64.5,
+        "wicketType": "LBW"
+      },
+      {
+        "wicketNumber": 8,
+        "score": 348,
+        "player": "Washington Sundar",
+        "shortName": "Washington Sundar",
+        "over": 111.6,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 9,
+        "score": 350,
+        "player": "Jasprit Bumrah",
+        "shortName": "Jasprit Bumrah",
+        "over": 113.3,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 10,
+        "score": 369,
+        "player": "Nitish Kumar Reddy",
+        "shortName": "Nitish Kumar Reddy",
+        "over": 119.3,
+        "wicketType": "Caught"
+      }
+    ]
+  },
+  {
+    "teamName": "Australia (Innings 3)",
+    "summary": {
+      "score": 234,
+      "wickets": 10,
+      "overs": 83.4,
+      "extras": {
+        "total": 17,
+        "wide": 1,
+        "noBall": 6,
+        "bye": 0,
+        "legBye": 10,
+        "penalty": 0
+      }
+    },
+    "batting": [
+      {
+        "name": "Sam Konstas",
+        "runs": 8,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 0,
+        "dismissal": "b Jasprit Bumrah",
+        "strikeRate": "44.44"
+      },
+      {
+        "name": "Usman Khawaja",
+        "runs": 21,
+        "balls": 65,
+        "fours": 2,
+        "sixes": 0,
+        "dismissal": "b Mohammed Siraj",
+        "strikeRate": "32.31"
+      },
+      {
+        "name": "Marnus Labuschagne",
+        "runs": 70,
+        "balls": 139,
+        "fours": 3,
+        "sixes": 0,
+        "dismissal": "lbw b Mohammed Siraj",
+        "strikeRate": "50.36"
+      },
+      {
+        "name": "Steven Smith",
+        "runs": 13,
+        "balls": 41,
+        "fours": 1,
+        "sixes": 0,
+        "dismissal": "c Rishabh Pant b Mohammed Siraj",
+        "strikeRate": "31.71"
+      },
+      {
+        "name": "Travis Head",
+        "runs": 1,
+        "balls": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Nitish Kumar Reddy b Jasprit Bumrah",
+        "strikeRate": "50.00"
+      },
+      {
+        "name": "Mitchell Marsh",
+        "runs": 0,
+        "balls": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Rishabh Pant b Jasprit Bumrah",
+        "strikeRate": "0.00"
+      },
+      {
+        "name": "Alex Carey",
+        "runs": 2,
+        "balls": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "b Jasprit Bumrah",
+        "strikeRate": "28.57"
+      },
+      {
+        "name": "Pat Cummins",
+        "runs": 41,
+        "balls": 90,
+        "fours": 4,
+        "sixes": 0,
+        "dismissal": "c Rohit Sharma b Ravindra Jadeja",
+        "strikeRate": "45.56"
+      },
+      {
+        "name": "Mitchell Starc",
+        "runs": 5,
+        "balls": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "Not out",
+        "strikeRate": "38.46"
+      },
+      {
+        "name": "Nathan Lyon",
+        "runs": 41,
+        "balls": 55,
+        "fours": 5,
+        "sixes": 0,
+        "dismissal": "b Jasprit Bumrah",
+        "strikeRate": "74.55"
+      },
+      {
+        "name": "Scott Boland",
+        "runs": 15,
+        "balls": 74,
+        "fours": 2,
+        "sixes": 0,
+        "dismissal": "Not out",
+        "strikeRate": "20.27"
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Jasprit Bumrah",
+        "overs": 24.4,
+        "maidens": 7,
+        "runs": 57,
+        "wickets": 5,
+        "wides": 0,
+        "noBalls": 4,
+        "economy": "2.34"
+      },
+      {
+        "name": "Akash Deep",
+        "overs": 17,
+        "maidens": 4,
+        "runs": 53,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 1,
+        "economy": "3.12"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "overs": 23,
+        "maidens": 4,
+        "runs": 70,
+        "wickets": 3,
+        "wides": 1,
+        "noBalls": 0,
+        "economy": "3.04"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "overs": 14,
+        "maidens": 2,
+        "runs": 33,
+        "wickets": 1,
+        "wides": 0,
+        "noBalls": 1,
+        "economy": "2.36"
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "overs": 1,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "4.00"
+      },
+      {
+        "name": "Washington Sundar",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "1.75"
+      }
+    ],
+    "partnerships": [
+      {
+        "player1": "Sam Konstas",
+        "player2": "Usman Khawaja",
+        "runs": 20,
+        "balls": 39
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Usman Khawaja",
+        "runs": 23,
+        "balls": 74
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Steven Smith",
+        "runs": 37,
+        "balls": 83
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Travis Head",
+        "runs": 5,
+        "balls": 5
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Mitchell Marsh",
+        "runs": 0,
+        "balls": 4
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Alex Carey",
+        "runs": 6,
+        "balls": 12
+      },
+      {
+        "player1": "Marnus Labuschagne",
+        "player2": "Pat Cummins",
+        "runs": 57,
+        "balls": 116
+      },
+      {
+        "player1": "Mitchell Starc",
+        "player2": "Pat Cummins",
+        "runs": 8,
+        "balls": 18
+      },
+      {
+        "player1": "Nathan Lyon",
+        "player2": "Pat Cummins",
+        "runs": 17,
+        "balls": 37
+      },
+      {
+        "player1": "Nathan Lyon",
+        "player2": "Scott Boland",
+        "runs": 61,
+        "balls": 120
+      }
+    ],
+    "fallOfWickets": [
+      {
+        "wicketNumber": 1,
+        "score": 20,
+        "player": "Sam Konstas",
+        "shortName": "Sam Konstas",
+        "over": 6.3,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 2,
+        "score": 43,
+        "player": "Usman Khawaja",
+        "shortName": "U Khawaja",
+        "over": 18.5,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 3,
+        "score": 80,
+        "player": "Steven Smith",
+        "shortName": "Steven Smith",
+        "over": 32.3,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 4,
+        "score": 85,
+        "player": "Travis Head",
+        "shortName": "Travis Head",
+        "over": 33.2,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 5,
+        "score": 85,
+        "player": "Mitchell Marsh",
+        "shortName": "Mitchell Marsh",
+        "over": 33.6,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 6,
+        "score": 91,
+        "player": "Alex Carey",
+        "shortName": "Alex Carey",
+        "over": 35.6,
+        "wicketType": "Bowled"
+      },
+      {
+        "wicketNumber": 7,
+        "score": 148,
+        "player": "Marnus Labuschagne",
+        "shortName": "Marnus Labuschagne",
+        "over": 55.1,
+        "wicketType": "LBW"
+      },
+      {
+        "wicketNumber": 8,
+        "score": 156,
+        "player": "Mitchell Starc",
+        "shortName": "Mitchell Starc",
+        "over": 58.1,
+        "wicketType": "Run out"
+      },
+      {
+        "wicketNumber": 9,
+        "score": 173,
+        "player": "Pat Cummins",
+        "shortName": "Pat Cummins",
+        "over": 64.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 10,
+        "score": 234,
+        "player": "Nathan Lyon",
+        "shortName": "Nathan Lyon",
+        "over": 83.4,
+        "wicketType": "Bowled"
+      }
+    ]
+  },
+  {
+    "teamName": "India (Innings 4)",
+    "summary": {
+      "score": 155,
+      "wickets": 10,
+      "overs": 79.1,
+      "extras": {
+        "total": 12,
+        "wide": 0,
+        "noBall": 2,
+        "bye": 5,
+        "legBye": 5,
+        "penalty": 0
+      }
+    },
+    "batting": [
+      {
+        "name": "Yashasvi Jaiswal",
+        "runs": 84,
+        "balls": 208,
+        "fours": 8,
+        "sixes": 0,
+        "dismissal": "c Alex Carey b Pat Cummins",
+        "strikeRate": "40.38"
+      },
+      {
+        "name": "Rohit Sharma",
+        "runs": 9,
+        "balls": 40,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Mitchell Marsh b Pat Cummins",
+        "strikeRate": "22.50"
+      },
+      {
+        "name": "KL Rahul",
+        "runs": 0,
+        "balls": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c U Khawaja b Pat Cummins",
+        "strikeRate": "0.00"
+      },
+      {
+        "name": "Virat Kohli",
+        "runs": 5,
+        "balls": 29,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c U Khawaja b Mitchell Starc",
+        "strikeRate": "17.24"
+      },
+      {
+        "name": "Rishabh Pant",
+        "runs": 30,
+        "balls": 104,
+        "fours": 2,
+        "sixes": 0,
+        "dismissal": "c Mitchell Marsh b Travis Head",
+        "strikeRate": "28.85"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "runs": 2,
+        "balls": 14,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Alex Carey b Scott Boland",
+        "strikeRate": "14.29"
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "runs": 1,
+        "balls": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Steven Smith b Nathan Lyon",
+        "strikeRate": "20.00"
+      },
+      {
+        "name": "Washington Sundar",
+        "runs": 5,
+        "balls": 45,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "Not out",
+        "strikeRate": "11.11"
+      },
+      {
+        "name": "Akash Deep",
+        "runs": 7,
+        "balls": 17,
+        "fours": 1,
+        "sixes": 0,
+        "dismissal": "c Travis Head b Scott Boland",
+        "strikeRate": "41.18"
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "runs": 0,
+        "balls": 8,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "c Steven Smith b Scott Boland",
+        "strikeRate": "0.00"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "runs": 0,
+        "balls": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissal": "lbw b Nathan Lyon",
+        "strikeRate": "0.00"
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Mitchell Starc",
+        "overs": 16,
+        "maidens": 8,
+        "runs": 25,
+        "wickets": 1,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "1.56"
+      },
+      {
+        "name": "Pat Cummins",
+        "overs": 18,
+        "maidens": 5,
+        "runs": 28,
+        "wickets": 3,
+        "wides": 0,
+        "noBalls": 1,
+        "economy": "1.56"
+      },
+      {
+        "name": "Scott Boland",
+        "overs": 16,
+        "maidens": 7,
+        "runs": 39,
+        "wickets": 3,
+        "wides": 0,
+        "noBalls": 1,
+        "economy": "2.44"
+      },
+      {
+        "name": "Mitchell Marsh",
+        "overs": 3,
+        "maidens": 2,
+        "runs": 2,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "0.67"
+      },
+      {
+        "name": "Nathan Lyon",
+        "overs": 20.1,
+        "maidens": 6,
+        "runs": 37,
+        "wickets": 2,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "1.84"
+      },
+      {
+        "name": "Travis Head",
+        "overs": 5,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 1,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "2.80"
+      },
+      {
+        "name": "Marnus Labuschagne",
+        "overs": 1,
+        "maidens": 1,
+        "runs": 0,
+        "wickets": 0,
+        "wides": 0,
+        "noBalls": 0,
+        "economy": "0.00"
+      }
+    ],
+    "partnerships": [
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Rohit Sharma",
+        "runs": 25,
+        "balls": 97
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "KL Rahul",
+        "runs": 0,
+        "balls": 5
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Virat Kohli",
+        "runs": 8,
+        "balls": 55
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Rishabh Pant",
+        "runs": 88,
+        "balls": 197
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Ravindra Jadeja",
+        "runs": 6,
+        "balls": 22
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Nitish Kumar Reddy",
+        "runs": 3,
+        "balls": 6
+      },
+      {
+        "player1": "Yashasvi Jaiswal",
+        "player2": "Washington Sundar",
+        "runs": 10,
+        "balls": 45
+      },
+      {
+        "player1": "Akash Deep",
+        "player2": "Washington Sundar",
+        "runs": 10,
+        "balls": 32
+      },
+      {
+        "player1": "Jasprit Bumrah",
+        "player2": "Washington Sundar",
+        "runs": 4,
+        "balls": 14
+      },
+      {
+        "player1": "Mohammed Siraj",
+        "player2": "Washington Sundar",
+        "runs": 1,
+        "balls": 4
+      }
+    ],
+    "fallOfWickets": [
+      {
+        "wicketNumber": 1,
+        "score": 25,
+        "player": "Rohit Sharma",
+        "shortName": "Rohit Sharma",
+        "over": 16.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 2,
+        "score": 25,
+        "player": "KL Rahul",
+        "shortName": "KL Rahul",
+        "over": 16.6,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 3,
+        "score": 33,
+        "player": "Virat Kohli",
+        "shortName": "Virat Kohli",
+        "over": 26.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 4,
+        "score": 121,
+        "player": "Rishabh Pant",
+        "shortName": "Rishabh Pant",
+        "over": 58.4,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 5,
+        "score": 127,
+        "player": "Ravindra Jadeja",
+        "shortName": "Ravindra Jadeja",
+        "over": 62.2,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 6,
+        "score": 130,
+        "player": "Nitish Kumar Reddy",
+        "shortName": "Nitish Kumar Reddy",
+        "over": 63.2,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 7,
+        "score": 140,
+        "player": "Yashasvi Jaiswal",
+        "shortName": "Yashasvi Jaiswal",
+        "over": 70.5,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 8,
+        "score": 150,
+        "player": "Akash Deep",
+        "shortName": "Akash Deep",
+        "over": 76.1,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 9,
+        "score": 154,
+        "player": "Jasprit Bumrah",
+        "shortName": "Jasprit Bumrah",
+        "over": 78.3,
+        "wicketType": "Caught"
+      },
+      {
+        "wicketNumber": 10,
+        "score": 155,
+        "player": "Mohammed Siraj",
+        "shortName": "Mohammed Siraj",
+        "over": 79.1,
+        "wicketType": "LBW"
+      }
+    ]
+  }
+]

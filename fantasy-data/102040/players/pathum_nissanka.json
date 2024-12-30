@@ -1,0 +1,185 @@
+{
+  "id": 13682,
+  "fullName": "Pathum Nissanka",
+  "country": "Sri Lanka",
+  "role": "Batter",
+  "faceImageId": 351889,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Anchor",
+    "battingPosition": "Opener"
+  },
+  "keyInfo": [
+    "Good against high-pace bowling ",
+    "Can hold one end and rotate strike well",
+    "Plays spin efficiently "
+  ],
+  "badges": [
+    "C/VC",
+    "Ideal for Conditions",
+    "In form"
+  ],
+  "careerStats": {
+    "matches": "60 Matches",
+    "batting": {
+      "innings": "59 Innings",
+      "runs": "1683",
+      "average": "29.53",
+      "strikeRate": "120.21",
+      "fifties": "14",
+      "hundreds": "0",
+      "highestScore": "90"
+    },
+    "bowling": null
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "90(60)",
+          "150.00",
+          "7",
+          "3",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110281",
+          "15(9)",
+          "166.67",
+          "3",
+          "0",
+          "GAM"
+        ],
+        "followUpLinkText": "gam-vs-kdb-eliminator-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110269",
+          "41(14)",
+          "292.86",
+          "5",
+          "3",
+          "NEK"
+        ],
+        "followUpLinkText": "kdb-vs-nek-20th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110229",
+          "15(11)",
+          "136.36",
+          "3",
+          "0",
+          "HBT"
+        ],
+        "followUpLinkText": "hbt-vs-kdb-13th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110173",
+          "26*(11)",
+          "236.36",
+          "5",
+          "0",
+          "NEK"
+        ],
+        "followUpLinkText": "kdb-vs-nek-4th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110169",
+          "2(5)",
+          "40.00",
+          "0",
+          "0",
+          "GAM"
+        ],
+        "followUpLinkText": "kdb-vs-gam-3rd-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "108739",
+          "52(51)",
+          "101.96",
+          "6",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "19(14)",
+          "135.71",
+          "2",
+          "1",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108259",
+          "39(22)",
+          "177.27",
+          "7",
+          "1",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108257",
+          "54(49)",
+          "110.20",
+          "9",
+          "1",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "7 Matches",
+    "batting": {
+      "innings": "7 Innings",
+      "runs": "195",
+      "average": "27.86",
+      "strikeRate": "118.18",
+      "fifties": "2",
+      "hundreds": "0",
+      "highestScore": "90"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "1 Matches",
+    "batting": {
+      "innings": "1 Innings",
+      "runs": "90",
+      "average": "90.0",
+      "strikeRate": "150.0",
+      "fifties": "1",
+      "hundreds": "0",
+      "highestScore": "90"
+    },
+    "bowling": null
+  }
+}

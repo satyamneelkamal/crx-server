@@ -1,0 +1,132 @@
+{
+  "id": 52428,
+  "fullName": "Bevon Jacobs",
+  "country": "New Zealand",
+  "role": "Batting Allrounder",
+  "faceImageId": 174146,
+  "batting": {
+    "batStyle": "Right-hand bat"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm fast-medium"
+  },
+  "badges": [],
+  "careerStats": {
+    "matches": "0 Matches",
+    "batting": null,
+    "bowling": null
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "81650",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "AKL"
+        ],
+        "followUpLinkText": "akl-vs-cntbry-final-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81645",
+          "2(3)",
+          "66.67",
+          "0",
+          "0",
+          "WEL"
+        ],
+        "followUpLinkText": "cntbry-vs-wel-elimination-final-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81624",
+          "19*(11)",
+          "172.73",
+          "3",
+          "0",
+          "WEL"
+        ],
+        "followUpLinkText": "wel-vs-cntbry-29th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81603",
+          "36*(13)",
+          "276.92",
+          "2",
+          "4",
+          "NK"
+        ],
+        "followUpLinkText": "nk-vs-cntbry-26th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81573",
+          "16(12)",
+          "133.33",
+          "1",
+          "1",
+          "WEL"
+        ],
+        "followUpLinkText": "cntbry-vs-wel-20th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81561",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "NK"
+        ],
+        "followUpLinkText": "cntbry-vs-nk-18th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81531",
+          "19(12)",
+          "158.33",
+          "2",
+          "1",
+          "OTG"
+        ],
+        "followUpLinkText": "otg-vs-cntbry-12th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81498",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "OTG"
+        ],
+        "followUpLinkText": "cntbry-vs-otg-5th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81475",
+          "42(20)",
+          "210.00",
+          "4",
+          "3",
+          "AKL"
+        ],
+        "followUpLinkText": "akl-vs-cntbry-1st-match-super-smash-2023-24"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": 8554,
+  "fullName": "Jacob Duffy",
+  "country": "New Zealand",
+  "role": "Bowler",
+  "faceImageId": 154499,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Hitter",
+    "battingPosition": "Tailender"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm fast-medium",
+    "bowlingRole": "New Ball Bowler",
+    "bowlingVariations": [
+      "Outswing",
+      "Inswing",
+      "Short Ball"
+    ],
+    "stockDelivery": "Outswing"
+  },
+  "keyInfo": [
+    "Troubles batters with extra bounce",
+    "Can move the new ball in the air and off the deck",
+    "Good at using the long handle"
+  ],
+  "badges": [
+    "Off Field Pick"
+  ],
+  "description": "Hits the deck hard and poses difficult questions. Took a three-fer in the last game",
+  "careerStats": {
+    "matches": "17 Matches",
+    "batting": {
+      "innings": "15 Innings",
+      "wickets": "14",
+      "average": "25.79",
+      "economy": "7.52",
+      "maidens": "0",
+      "4w": "1",
+      "bestPerformance": "4-33"
+    },
+    "bowling": null
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "3",
+          "21",
+          "5.25",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108737",
+          "4",
+          "0",
+          "29",
+          "7.25",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "91000",
+          "4",
+          "0",
+          "42",
+          "10.50",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-4th-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "90993",
+          "4",
+          "1",
+          "39",
+          "9.75",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-3rd-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "90986",
+          "2",
+          "0",
+          "7",
+          "3.50",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-2nd-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "81631",
+          "2",
+          "1",
+          "6",
+          "3.00",
+          "NK"
+        ],
+        "followUpLinkText": "otg-vs-nk-30th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81610",
+          "4",
+          "2",
+          "14",
+          "3.50",
+          "CD"
+        ],
+        "followUpLinkText": "otg-vs-cd-27th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81587",
+          "3",
+          "1",
+          "15",
+          "4.29",
+          "AKL"
+        ],
+        "followUpLinkText": "akl-vs-otg-23rd-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81566",
+          "4",
+          "1",
+          "36",
+          "9.00",
+          "CD"
+        ],
+        "followUpLinkText": "cd-vs-otg-19th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81540",
+          "3",
+          "4",
+          "19",
+          "5.76",
+          "NK"
+        ],
+        "followUpLinkText": "nk-vs-otg-15th-match-super-smash-2023-24"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "3 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "wickets": "3",
+      "average": "16.67",
+      "economy": "6.25",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "3-21"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": null,
+    "bowling": null
+  }
+}

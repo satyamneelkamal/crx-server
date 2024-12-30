@@ -1,0 +1,185 @@
+{
+  "id": 18509,
+  "fullName": "Nuwan Thushara",
+  "country": "Sri Lanka",
+  "role": "Bowler",
+  "faceImageId": 226338,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Pinch Hitter",
+    "battingPosition": "Tailender"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm fast-medium",
+    "bowlingRole": "Powerplay and Death Overs Bowler",
+    "bowlingVariations": [
+      "Yorker",
+      "Short Ball",
+      "Slower Ball"
+    ],
+    "stockDelivery": "Outswing"
+  },
+  "keyInfo": [
+    "Low slingy action that can trouble batters",
+    "Potent with the new ball and at the death",
+    "Mixes up pace and lengths cleverly"
+  ],
+  "badges": [
+    "In form"
+  ],
+  "careerStats": {
+    "matches": "17 Matches",
+    "batting": {
+      "innings": "17 Innings",
+      "wickets": "25",
+      "average": "16.08",
+      "economy": "7.73",
+      "maidens": "1",
+      "4w": "2",
+      "bestPerformance": "5-20"
+    },
+    "bowling": null
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "0",
+          "28",
+          "7.00",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110297",
+          "2",
+          "0",
+          "27",
+          "13.50",
+          "HBT"
+        ],
+        "followUpLinkText": "jft-vs-hbt-final-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110277",
+          "2",
+          "1",
+          "14",
+          "7.00",
+          "HBT"
+        ],
+        "followUpLinkText": "jft-vs-hbt-qualifier-1-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110241",
+          "1",
+          "2",
+          "5",
+          "5.00",
+          "NEK"
+        ],
+        "followUpLinkText": "jft-vs-nek-15th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110213",
+          "2",
+          "1",
+          "16",
+          "8.00",
+          "GAM"
+        ],
+        "followUpLinkText": "gam-vs-jft-11th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "109561",
+          "2",
+          "0",
+          "19",
+          "9.50",
+          "UPN"
+        ],
+        "followUpLinkText": "cbj-vs-upn-30th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109537",
+          "2",
+          "0",
+          "28",
+          "14.00",
+          "DBL"
+        ],
+        "followUpLinkText": "dbl-vs-cbj-26th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109523",
+          "2",
+          "0",
+          "21",
+          "10.50",
+          "AD"
+        ],
+        "followUpLinkText": "ad-vs-cbj-23rd-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109488",
+          "2",
+          "3",
+          "18",
+          "9.00",
+          "AJMB"
+        ],
+        "followUpLinkText": "cbj-vs-ajmb-17th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109474",
+          "2",
+          "0",
+          "16",
+          "8.00",
+          "MSA"
+        ],
+        "followUpLinkText": "msa-vs-cbj-15th-match-abu-dhabi-t10-league-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "wickets": "5",
+      "average": "17.80",
+      "economy": "5.93",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-14"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": null,
+    "bowling": null
+  }
+}

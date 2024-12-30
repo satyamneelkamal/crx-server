@@ -1,0 +1,914 @@
+{
+  "basicInfo": {
+    "seriesName": "AUS vs IND 4th TEST, BGT 2024-25",
+    "matchDate": "Dec 26, 2024, 5:00:00 AM",
+    "venue": "Melbourne Cricket Ground, Melbourne"
+  },
+  "teamForm": [
+    {
+      "teamName": "Australia",
+      "shortForm": [
+        {
+          "result": "D",
+          "type": "draw"
+        },
+        {
+          "result": "W",
+          "type": "win"
+        },
+        {
+          "result": "L",
+          "type": "loss"
+        },
+        {
+          "result": "W",
+          "type": "win"
+        },
+        {
+          "result": "W",
+          "type": "win"
+        }
+      ],
+      "recentMatches": [
+        {
+          "teams": {
+            "team1": {
+              "name": "AUS",
+              "scores": [
+                "445/10",
+                "89/7"
+              ]
+            },
+            "team2": {
+              "name": "IND",
+              "scores": [
+                "260/10",
+                "8/0"
+              ]
+            }
+          },
+          "result": "D",
+          "matchInfo": {
+            "number": "3rd TEST",
+            "series": "BGT 2024-25"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "IND",
+              "scores": [
+                "180/10",
+                "175/10"
+              ]
+            },
+            "team2": {
+              "name": "AUS",
+              "scores": [
+                "337/10",
+                "19/0"
+              ]
+            }
+          },
+          "result": "W",
+          "matchInfo": {
+            "number": "2nd TEST",
+            "series": "BGT 2024-25"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "IND",
+              "scores": [
+                "150/10",
+                "487/6"
+              ]
+            },
+            "team2": {
+              "name": "AUS",
+              "scores": [
+                "104/10",
+                "238/10"
+              ]
+            }
+          },
+          "result": "L",
+          "matchInfo": {
+            "number": "1st TEST",
+            "series": "BGT 2024-25"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "NZ",
+              "scores": [
+                "162/10",
+                "372/10"
+              ]
+            },
+            "team2": {
+              "name": "AUS",
+              "scores": [
+                "256/10",
+                "281/7"
+              ]
+            }
+          },
+          "result": "W",
+          "matchInfo": {
+            "number": "2nd TEST",
+            "series": "AUS vs NZ 2024"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "AUS",
+              "scores": [
+                "383/10",
+                "164/10"
+              ]
+            },
+            "team2": {
+              "name": "NZ",
+              "scores": [
+                "179/10",
+                "196/10"
+              ]
+            }
+          },
+          "result": "W",
+          "matchInfo": {
+            "number": "1st TEST",
+            "series": "AUS vs NZ 2024"
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "India",
+      "shortForm": [
+        {
+          "result": "D",
+          "type": "draw"
+        },
+        {
+          "result": "L",
+          "type": "loss"
+        },
+        {
+          "result": "W",
+          "type": "win"
+        },
+        {
+          "result": "W",
+          "type": "win"
+        },
+        {
+          "result": "L",
+          "type": "loss"
+        }
+      ],
+      "recentMatches": [
+        {
+          "teams": {
+            "team1": {
+              "name": "AUS",
+              "scores": [
+                "445/10",
+                "89/7"
+              ]
+            },
+            "team2": {
+              "name": "IND",
+              "scores": [
+                "260/10",
+                "8/0"
+              ]
+            }
+          },
+          "result": "D",
+          "matchInfo": {
+            "number": "3rd TEST",
+            "series": "BGT 2024-25"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "IND",
+              "scores": [
+                "180/10",
+                "175/10"
+              ]
+            },
+            "team2": {
+              "name": "AUS",
+              "scores": [
+                "337/10",
+                "19/0"
+              ]
+            }
+          },
+          "result": "L",
+          "matchInfo": {
+            "number": "2nd TEST",
+            "series": "BGT 2024-25"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "AUS PM-XI",
+              "scores": [
+                "240/10"
+              ]
+            },
+            "team2": {
+              "name": "IND",
+              "scores": [
+                "257/4"
+              ]
+            }
+          },
+          "result": "W",
+          "matchInfo": {
+            "number": "Only TEST",
+            "series": "PM-XI vs IND Warm-Up 2024"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "IND",
+              "scores": [
+                "150/10",
+                "487/6"
+              ]
+            },
+            "team2": {
+              "name": "AUS",
+              "scores": [
+                "104/10",
+                "238/10"
+              ]
+            }
+          },
+          "result": "W",
+          "matchInfo": {
+            "number": "1st TEST",
+            "series": "BGT 2024-25"
+          }
+        },
+        {
+          "teams": {
+            "team1": {
+              "name": "NZ",
+              "scores": [
+                "235/10",
+                "174/10"
+              ]
+            },
+            "team2": {
+              "name": "IND",
+              "scores": [
+                "263/10",
+                "121/10"
+              ]
+            }
+          },
+          "result": "L",
+          "matchInfo": {
+            "number": "3rd TEST",
+            "series": "NZ vs IND 2024"
+          }
+        }
+      ]
+    }
+  ],
+  "headToHead": {
+    "stats": {
+      "team1": {
+        "name": "AUS",
+        "wins": "4"
+      },
+      "team2": {
+        "name": "IND",
+        "wins": "6"
+      }
+    },
+    "matches": [
+      {
+        "teams": {
+          "team1": {
+            "name": "AUS",
+            "scores": [
+              "445",
+              "89/7"
+            ]
+          },
+          "team2": {
+            "name": "IND",
+            "scores": [
+              "260",
+              "8/0"
+            ]
+          }
+        },
+        "result": "Match Drawn",
+        "matchInfo": "3rd TEST, BGT 2024-25"
+      },
+      {
+        "teams": {
+          "team1": {
+            "name": "AUS",
+            "scores": [
+              "337",
+              "19/0"
+            ]
+          },
+          "team2": {
+            "name": "IND",
+            "scores": [
+              "180",
+              "175"
+            ]
+          }
+        },
+        "result": "AUS Won",
+        "matchInfo": "2nd TEST, BGT 2024-25"
+      },
+      {
+        "teams": {
+          "team1": {
+            "name": "AUS",
+            "scores": [
+              "104",
+              "238"
+            ]
+          },
+          "team2": {
+            "name": "IND",
+            "scores": [
+              "150",
+              "487/6"
+            ]
+          }
+        },
+        "result": "IND Won",
+        "matchInfo": "1st TEST, BGT 2024-25"
+      },
+      {
+        "teams": {
+          "team1": {
+            "name": "AUS",
+            "scores": [
+              "469",
+              "270/8"
+            ]
+          },
+          "team2": {
+            "name": "IND",
+            "scores": [
+              "296",
+              "234"
+            ]
+          }
+        },
+        "result": "AUS Won",
+        "matchInfo": "Final, WTC Final 2023"
+      },
+      {
+        "teams": {
+          "team1": {
+            "name": "IND",
+            "scores": [
+              "571"
+            ]
+          },
+          "team2": {
+            "name": "AUS",
+            "scores": [
+              "480",
+              "175/2"
+            ]
+          }
+        },
+        "result": "Match Drawn",
+        "matchInfo": "4th TEST, BGT 2023"
+      }
+    ]
+  },
+  "venueStats": {
+    "matches": {
+      "count": "19",
+      "text": "Matches"
+    },
+    "winPercentages": {
+      "batFirst": "47%",
+      "bowlFirst": "37%"
+    },
+    "averageScores": {
+      "firstInnings": "333",
+      "secondInnings": "350",
+      "thirdInnings": "210",
+      "fourthInnings": "137"
+    },
+    "totals": {
+      "highest": {
+        "score": "624-8",
+        "teams": "by PAK vs AUS"
+      },
+      "lowest": {
+        "score": "46-0",
+        "teams": "by AUS vs ENG"
+      }
+    },
+    "recentMatches": [
+      {
+        "teams": {
+          "team1": {
+            "name": "QLD",
+            "scores": [
+              "172",
+              "223"
+            ]
+          },
+          "team2": {
+            "name": "VIC",
+            "scores": [
+              "123",
+              "249"
+            ]
+          }
+        },
+        "result": "QLD Won",
+        "matchInfo": "17th TEST, Sheffield 2024-25"
+      },
+      {
+        "teams": {
+          "team1": {
+            "name": "AUS-A",
+            "scores": [
+              "223",
+              "169/4"
+            ]
+          },
+          "team2": {
+            "name": "IND-A",
+            "scores": [
+              "161",
+              "229"
+            ]
+          }
+        },
+        "result": "AUS A Won",
+        "matchInfo": "2nd TEST, IND-A vs AUS-A 2024"
+      },
+      {
+        "teams": {
+          "team1": {
+            "name": "VIC",
+            "scores": [
+              "272",
+              "246"
+            ]
+          },
+          "team2": {
+            "name": "NSW",
+            "scores": [
+              "136",
+              "241"
+            ]
+          }
+        },
+        "result": "VIC Won",
+        "matchInfo": "4th TEST, Sheffield 2024-25"
+      }
+    ]
+  },
+  "weatherInfo": {
+    "temperature": "19˚C",
+    "condition": "Mostly sunny",
+    "humidity": "56% (Humidity)",
+    "precipitation": "3 % Chance"
+  },
+  "teamComparison": {
+    "overall": {
+      "type": "Overall",
+      "title": {
+        "main": "Team Comparison",
+        "subtitle": "(Last 5 matches)(Last 10 matches)(Last 10 matches)"
+      },
+      "teams": {
+        "team1": {
+          "name": "AU",
+          "context": "vs all teams"
+        },
+        "team2": {
+          "name": "IN",
+          "context": "vs all teams"
+        }
+      },
+      "stats": [
+        {
+          "team1Value": "10",
+          "label": "Matches Played",
+          "team2Value": "10"
+        },
+        {
+          "team1Value": "70%",
+          "label": "Win",
+          "team2Value": "50%"
+        },
+        {
+          "team1Value": "320",
+          "label": "Avg Score",
+          "team2Value": "245"
+        },
+        {
+          "team1Value": "487",
+          "label": "Highest Score",
+          "team2Value": "477"
+        },
+        {
+          "team1Value": "104",
+          "label": "Lowest Score",
+          "team2Value": "46"
+        }
+      ]
+    },
+    "onVenue": {
+      "type": "On Venue",
+      "title": {
+        "main": "Team Comparison",
+        "subtitle": "(Last 5 matches)(Last 10 matches)(Last 10 matches)"
+      },
+      "teams": {
+        "team1": {
+          "name": "AU",
+          "context": "vs all teams"
+        },
+        "team2": {
+          "name": "IN",
+          "context": "vs all teams"
+        }
+      },
+      "stats": [
+        {
+          "team1Value": "10",
+          "label": "Matches Played",
+          "team2Value": "7"
+        },
+        {
+          "team1Value": "60%",
+          "label": "Win",
+          "team2Value": "28%"
+        },
+        {
+          "team1Value": "400",
+          "label": "Avg Score",
+          "team2Value": "330"
+        },
+        {
+          "team1Value": "624",
+          "label": "Highest Score",
+          "team2Value": "465"
+        },
+        {
+          "team1Value": "151",
+          "label": "Lowest Score",
+          "team2Value": "196"
+        }
+      ]
+    }
+  },
+  "toss": {
+    "result": "AUS won the toss and chose to bat"
+  },
+  "playingXI": {
+    "teams": {
+      "AUS": {
+        "playingXI": [
+          {
+            "name": "Usman Khawaja",
+            "shortName": "U Khawaja",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "9G",
+            "profileUrl": "https://crex.live/player-profile/9G/usman-khawaja"
+          },
+          {
+            "name": "Sam Konstas",
+            "shortName": "S Konstas",
+            "role": "All Rounder",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "C7V",
+            "profileUrl": "https://crex.live/player-profile/C7V/sam-konstas"
+          },
+          {
+            "name": "Marnus Labuschagne",
+            "shortName": "M Labuschagne",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "GD",
+            "profileUrl": "https://crex.live/player-profile/GD/marnus-labuschagne"
+          },
+          {
+            "name": "Steve Smith",
+            "shortName": "S Smith",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "7F",
+            "profileUrl": "https://crex.live/player-profile/7F/steve-smith"
+          },
+          {
+            "name": "Travis Head",
+            "shortName": "T Head",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "9O",
+            "profileUrl": "https://crex.live/player-profile/9O/travis-head"
+          },
+          {
+            "name": "Mitchell Marsh",
+            "shortName": "M Marsh",
+            "role": "All Rounder",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "62",
+            "profileUrl": "https://crex.live/player-profile/62/mitchell-marsh"
+          },
+          {
+            "name": "Alex Carey",
+            "shortName": "A Carey",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": true,
+            "playerId": "MT",
+            "profileUrl": "https://crex.live/player-profile/MT/alex-carey"
+          },
+          {
+            "name": "Pat Cummins",
+            "shortName": "P Cummins",
+            "role": "Bowler",
+            "isCaptain": true,
+            "isWicketkeeper": false,
+            "playerId": "8F",
+            "profileUrl": "https://crex.live/player-profile/8F/pat-cummins"
+          },
+          {
+            "name": "Mitchell Starc",
+            "shortName": "M Starc",
+            "role": "Bowler",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "8G",
+            "profileUrl": "https://crex.live/player-profile/8G/mitchell-starc"
+          },
+          {
+            "name": "Nathan Lyon",
+            "shortName": "N Lyon",
+            "role": "Bowler",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "HK",
+            "profileUrl": "https://crex.live/player-profile/HK/nathan-lyon"
+          },
+          {
+            "name": "Scott Boland",
+            "shortName": "S Boland",
+            "role": "Bowler",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "AQ",
+            "profileUrl": "https://crex.live/player-profile/AQ/scott-boland"
+          }
+        ],
+        "benchPlayers": [
+          {
+            "name": "Josh Inglis",
+            "shortName": "J Inglis",
+            "role": "Batter",
+            "isBench": true,
+            "playerId": "20O",
+            "profileUrl": "https://crex.live/player-profile/20O/josh-inglis"
+          },
+          {
+            "name": "Josh Hazlewood",
+            "shortName": "J Hazlewood",
+            "role": "Bowler",
+            "isBench": true,
+            "playerId": "95",
+            "profileUrl": "https://crex.live/player-profile/95/josh-hazlewood"
+          },
+          {
+            "name": "Beau Webster",
+            "shortName": "B Webster",
+            "role": "All Rounder",
+            "isBench": true,
+            "playerId": "1Z3",
+            "profileUrl": "https://crex.live/player-profile/1Z3/beau-webster"
+          },
+          {
+            "name": "Sean Anthony Abbott",
+            "shortName": "S A Abbott",
+            "role": "All Rounder",
+            "isBench": true,
+            "playerId": "9F",
+            "profileUrl": "https://crex.live/player-profile/9F/sean-anthony-abbott"
+          },
+          {
+            "name": "Jhye Richardson",
+            "shortName": "J Richardson",
+            "role": "Bowler",
+            "isBench": true,
+            "playerId": "GS",
+            "profileUrl": "https://crex.live/player-profile/GS/jhye-richardson"
+          }
+        ]
+      },
+      "IND": {
+        "playingXI": [
+          {
+            "name": "Rohit Sharma",
+            "shortName": "R Sharma",
+            "role": "Batter",
+            "isCaptain": true,
+            "isWicketkeeper": false,
+            "playerId": "2X",
+            "profileUrl": "https://crex.live/player-profile/2X/rohit-sharma"
+          },
+          {
+            "name": "Yashasvi Jaiswal",
+            "shortName": "Y Jaiswal",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "15K",
+            "profileUrl": "https://crex.live/player-profile/15K/yashasvi-jaiswal"
+          },
+          {
+            "name": "KL Rahul",
+            "shortName": "K Rahul",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "AK",
+            "profileUrl": "https://crex.live/player-profile/AK/kl-rahul"
+          },
+          {
+            "name": "Virat Kohli",
+            "shortName": "V Kohli",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "4I",
+            "profileUrl": "https://crex.live/player-profile/4I/virat-kohli"
+          },
+          {
+            "name": "Rishabh Pant",
+            "shortName": "R Pant",
+            "role": "Batter",
+            "isCaptain": false,
+            "isWicketkeeper": true,
+            "playerId": "CL",
+            "profileUrl": "https://crex.live/player-profile/CL/rishabh-pant"
+          },
+          {
+            "name": "Nitish Kumar Reddy",
+            "shortName": "N K Reddy",
+            "role": "All Rounder",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "7OV",
+            "profileUrl": "https://crex.live/player-profile/7OV/nitish-kumar-reddy"
+          },
+          {
+            "name": "Washington Sundar",
+            "shortName": "W Sundar",
+            "role": "All Rounder",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "LQ",
+            "profileUrl": "https://crex.live/player-profile/LQ/washington-sundar"
+          },
+          {
+            "name": "Ravindra Jadeja",
+            "shortName": "R Jadeja",
+            "role": "All Rounder",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "7",
+            "profileUrl": "https://crex.live/player-profile/7/ravindra-jadeja"
+          },
+          {
+            "name": "Akash Deep",
+            "shortName": "A Deep",
+            "role": "Bowler",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "5KW",
+            "profileUrl": "https://crex.live/player-profile/5KW/akash-deep"
+          },
+          {
+            "name": "Jasprit Bumrah",
+            "shortName": "J Bumrah",
+            "role": "Bowler",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "AJ",
+            "profileUrl": "https://crex.live/player-profile/AJ/jasprit-bumrah"
+          },
+          {
+            "name": "Mohammed Siraj",
+            "shortName": "M Siraj",
+            "role": "Bowler",
+            "isCaptain": false,
+            "isWicketkeeper": false,
+            "playerId": "E1",
+            "profileUrl": "https://crex.live/player-profile/E1/mohammed-siraj"
+          }
+        ],
+        "benchPlayers": [
+          {
+            "name": "Shubman Gill",
+            "shortName": "S Gill",
+            "role": "Batter",
+            "isBench": true,
+            "playerId": "O5",
+            "profileUrl": "https://crex.live/player-profile/O5/shubman-gill"
+          },
+          {
+            "name": "Sarfaraz Khan",
+            "shortName": "S Khan",
+            "role": "Batter",
+            "isBench": true,
+            "playerId": "B2",
+            "profileUrl": "https://crex.live/player-profile/B2/sarfaraz-khan"
+          },
+          {
+            "name": "Dhruv Jurel",
+            "shortName": "D Jurel",
+            "role": "Batter",
+            "isBench": true,
+            "playerId": "16J",
+            "profileUrl": "https://crex.live/player-profile/16J/dhruv-jurel"
+          },
+          {
+            "name": "Abhimanyu Easwaran",
+            "shortName": "A Easwaran",
+            "role": "Batter",
+            "isBench": true,
+            "playerId": "5KI",
+            "profileUrl": "https://crex.live/player-profile/5KI/abhimanyu-easwaran"
+          },
+          {
+            "name": "Prasidh Krishna",
+            "shortName": "P Krishna",
+            "role": "Bowler",
+            "isBench": true,
+            "playerId": "EF",
+            "profileUrl": "https://crex.live/player-profile/EF/prasidh-krishna"
+          },
+          {
+            "name": "Harshit Rana",
+            "shortName": "H Rana",
+            "role": "Bowler",
+            "isBench": true,
+            "playerId": "8OH",
+            "profileUrl": "https://crex.live/player-profile/8OH/harshit-rana"
+          },
+          {
+            "name": "Devdutt Padikkal",
+            "shortName": "D Padikkal",
+            "role": "Batter",
+            "isBench": true,
+            "playerId": "EI",
+            "profileUrl": "https://crex.live/player-profile/EI/devdutt-padikkal"
+          },
+          {
+            "name": "Tanush Kotian",
+            "shortName": "T Kotian",
+            "role": "All Rounder",
+            "isBench": true,
+            "playerId": "63B",
+            "profileUrl": "https://crex.live/player-profile/63B/tanush-kotian"
+          }
+        ]
+      }
+    }
+  },
+  "umpires": {
+    "onField": "Michael Gough, Joel Wilson",
+    "thirdUmpire": "Sharfuddoula",
+    "referee": "Andy Pycroft"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "id": 10713,
+  "fullName": "Daryl Mitchell",
+  "country": "New Zealand",
+  "role": "Batting Allrounder",
+  "faceImageId": 351601,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Floater",
+    "battingPosition": "Middle Order"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm medium",
+    "bowlingRole": "Part-timer",
+    "bowlingVariations": [
+      "Length Ball",
+      "Slower Ball"
+    ],
+    "stockDelivery": "Length Ball"
+  },
+  "keyInfo": [
+    "Can bat both top and middle order, reliable option at all positions",
+    "Has the gears to attack and anchor",
+    "Handy dibbly dobbly bowler - effective in swinging conditions"
+  ],
+  "badges": [],
+  "careerStats": {
+    "matches": "69 Matches",
+    "batting": {
+      "innings": "65 Innings",
+      "runs": "1376",
+      "average": "26.46",
+      "strikeRate": "138.15",
+      "fifties": "8",
+      "hundreds": "0",
+      "highestScore": "72"
+    },
+    "bowling": {
+      "innings": "12 Innings",
+      "wickets": "8",
+      "average": "22.88",
+      "economy": "11.44",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-27"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "62(42)",
+          "147.62",
+          "4",
+          "2",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "87766",
+          "19*(12)",
+          "158.33",
+          "3",
+          "0",
+          "PNG"
+        ],
+        "followUpLinkText": "nz-vs-png-39th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "87717",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "UGA"
+        ],
+        "followUpLinkText": "nz-vs-uga-32nd-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "87675",
+          "12(13)",
+          "92.31",
+          "1",
+          "0",
+          "WI"
+        ],
+        "followUpLinkText": "wi-vs-nz-26th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "87591",
+          "5(5)",
+          "100.00",
+          "1",
+          "0",
+          "AFG"
+        ],
+        "followUpLinkText": "nz-vs-afg-14th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "91704",
+          "4(6)",
+          "66.67",
+          "0",
+          "0",
+          "RCB"
+        ],
+        "followUpLinkText": "rcb-vs-csk-68th-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "91663",
+          "22(13)",
+          "169.23",
+          "4",
+          "0",
+          "RR"
+        ],
+        "followUpLinkText": "csk-vs-rr-61st-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "91650",
+          "63(34)",
+          "185.29",
+          "7",
+          "3",
+          "GT"
+        ],
+        "followUpLinkText": "gt-vs-csk-59th-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "91609",
+          "30(19)",
+          "157.89",
+          "2",
+          "1",
+          "PBKS"
+        ],
+        "followUpLinkText": "pbks-vs-csk-53rd-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "91578",
+          "1*(1)",
+          "100.00",
+          "0",
+          "0",
+          "PBKS"
+        ],
+        "followUpLinkText": "csk-vs-pbks-49th-match-indian-premier-league-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "87675",
+          "1",
+          "0",
+          "19",
+          "19.00",
+          "WI"
+        ],
+        "followUpLinkText": "wi-vs-nz-26th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "87591",
+          "1",
+          "0",
+          "16",
+          "16.00",
+          "AFG"
+        ],
+        "followUpLinkText": "nz-vs-afg-14th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "91650",
+          "4",
+          "0",
+          "52",
+          "13.00",
+          "GT"
+        ],
+        "followUpLinkText": "gt-vs-csk-59th-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "89689",
+          "2",
+          "1",
+          "18",
+          "9.00",
+          "GT"
+        ],
+        "followUpLinkText": "csk-vs-gt-7th-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "68371",
+          "4",
+          "0",
+          "44",
+          "11.00",
+          "SUR"
+        ],
+        "followUpLinkText": "lancs-vs-sur-quarter-final-2-t20-blast-2023"
+      },
+      {
+        "values": [
+          "68332",
+          "3",
+          "1",
+          "21",
+          "7.00",
+          "NHNTS"
+        ],
+        "followUpLinkText": "lancs-vs-nhnts-north-group-t20-blast-2023"
+      },
+      {
+        "values": [
+          "68262",
+          "2",
+          "2",
+          "13",
+          "6.50",
+          "DERBY"
+        ],
+        "followUpLinkText": "lancs-vs-derby-north-group-t20-blast-2023"
+      },
+      {
+        "values": [
+          "68098",
+          "4",
+          "1",
+          "40",
+          "10.00",
+          "DUR"
+        ],
+        "followUpLinkText": "lancs-vs-dur-north-group-t20-blast-2023"
+      },
+      {
+        "values": [
+          "68080",
+          "4",
+          "2",
+          "25",
+          "6.25",
+          "NHNTS"
+        ],
+        "followUpLinkText": "nhnts-vs-lancs-north-group-t20-blast-2023"
+      },
+      {
+        "values": [
+          "67933",
+          "2",
+          "3",
+          "9",
+          "4.50",
+          "WORCS"
+        ],
+        "followUpLinkText": "lancs-vs-worcs-north-group-t20-blast-2023"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "9 Matches",
+    "batting": {
+      "innings": "8 Innings",
+      "runs": "215",
+      "average": "30.71",
+      "strikeRate": "126.47",
+      "fifties": "2",
+      "hundreds": "0",
+      "highestScore": "66"
+    },
+    "bowling": {
+      "innings": "0 Innings",
+      "wickets": "0",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "0-0"
+    }
+  },
+  "In Bay Oval": {
+    "matches": "7 Matches",
+    "batting": {
+      "innings": "6 Innings",
+      "runs": "111",
+      "average": "22.20",
+      "strikeRate": "109.90",
+      "fifties": "1",
+      "hundreds": "0",
+      "highestScore": "62"
+    },
+    "bowling": {
+      "innings": "0 Innings",
+      "wickets": "0",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "0-0"
+    }
+  }
+}

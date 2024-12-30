@@ -1,0 +1,53 @@
+body {
+  width: 300px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+#scorecard {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+h2 {
+  margin: 0;
+  padding: 10px;
+  background: #1a2938;
+  color: white;
+  border-radius: 8px 8px 0 0;
+  font-size: 16px;
+}
+
+#score-content {
+  padding: 15px;
+  min-height: 100px;
+}
+
+.score {
+  text-align: center;
+}
+
+.team {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.runs {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1a2938;
+  margin: 10px 0;
+}
+
+.overs {
+  color: #666;
+  font-size: 14px;
+}
+
+/* Loading state */
+#score-content:empty::after {
+  content: 'Loading...';
+  color: #666;
+  font-style: italic;
+} 

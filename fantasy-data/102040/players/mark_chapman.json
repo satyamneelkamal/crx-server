@@ -1,0 +1,193 @@
+{
+  "id": 9976,
+  "fullName": "Mark Chapman",
+  "country": "New Zealand",
+  "role": "Batter",
+  "faceImageId": 351807,
+  "batting": {
+    "batStyle": "Left-hand bat",
+    "battingRole": "Floater",
+    "battingPosition": "Middle Order"
+  },
+  "bowling": {
+    "bowlStyle": "Left-arm orthodox",
+    "bowlingRole": "Part-timer",
+    "bowlingVariations": [
+      "Arm Ball"
+    ],
+    "stockDelivery": "Off Spin"
+  },
+  "keyInfo": [
+    "Sweeps and uses feet efficiently against spin ",
+    "Can switch gears quickly",
+    "Flexible to bat anywhere in the middle order and has performed decently as a finisher"
+  ],
+  "badges": [
+    "Ideal for Conditions",
+    "Off Field Pick"
+  ],
+  "description": "Terrific ball-striker and if he gets going can win a game single-handedly",
+  "careerStats": {
+    "matches": "80 Matches",
+    "batting": {
+      "innings": "72 Innings",
+      "runs": "1608",
+      "average": "27.72",
+      "strikeRate": "131.70",
+      "fifties": "8",
+      "hundreds": "1",
+      "highestScore": "104"
+    },
+    "bowling": null
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "15(13)",
+          "115.38",
+          "1",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "2(6)",
+          "33.33",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "1(6)",
+          "16.67",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "106844",
+          "12(11)",
+          "109.09",
+          "1",
+          "0",
+          "NYSL"
+        ],
+        "followUpLinkText": "nysl-vs-dw-20th-match-zim-afro-t10-2024"
+      },
+      {
+        "values": [
+          "106817",
+          "4(4)",
+          "100.00",
+          "1",
+          "0",
+          "HB"
+        ],
+        "followUpLinkText": "dw-vs-hb-16th-match-zim-afro-t10-2024"
+      },
+      {
+        "values": [
+          "106804",
+          "19(9)",
+          "211.11",
+          "2",
+          "1",
+          "CTSA"
+        ],
+        "followUpLinkText": "dw-vs-ctsa-14th-match-zim-afro-t10-2024"
+      },
+      {
+        "values": [
+          "106777",
+          "13(6)",
+          "216.67",
+          "1",
+          "1",
+          "NYSL"
+        ],
+        "followUpLinkText": "nysl-vs-dw-10th-match-zim-afro-t10-2024"
+      },
+      {
+        "values": [
+          "106769",
+          "38*(22)",
+          "172.73",
+          "3",
+          "1",
+          "BLBJ"
+        ],
+        "followUpLinkText": "blbj-vs-dw-8th-match-zim-afro-t10-2024"
+      },
+      {
+        "values": [
+          "106740",
+          "12*(10)",
+          "120.00",
+          "0",
+          "1",
+          "HB"
+        ],
+        "followUpLinkText": "dw-vs-hb-4th-match-zim-afro-t10-2024"
+      },
+      {
+        "values": [
+          "106724",
+          "38(16)",
+          "237.50",
+          "4",
+          "2",
+          "JBT"
+        ],
+        "followUpLinkText": "dw-vs-jbt-1st-match-zim-afro-t10-2024"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "7 Matches",
+    "batting": {
+      "innings": "6 Innings",
+      "runs": "109",
+      "average": "18.17",
+      "strikeRate": "122.47",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "42"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "3 Innings",
+      "runs": "58",
+      "average": "19.33",
+      "strikeRate": "123.40",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "42"
+    },
+    "bowling": null
+  }
+}

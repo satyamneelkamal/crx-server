@@ -1,0 +1,336 @@
+{
+  "id": 11177,
+  "fullName": "Rachin Ravindra",
+  "country": "New Zealand",
+  "role": "Batting Allrounder",
+  "faceImageId": 351609,
+  "batting": {
+    "batStyle": "Left-hand bat",
+    "battingRole": "Anchor",
+    "battingPosition": "Middle Order"
+  },
+  "bowling": {
+    "bowlStyle": "Left-arm orthodox",
+    "bowlingRole": "Front-line spinner",
+    "stockDelivery": "Left-arm orthodox"
+  },
+  "keyInfo": [
+    "Calm middle-order batter who bats according to the situation",
+    "Improved left-arm finger spinner who bowls with a lot of control"
+  ],
+  "badges": [
+    "C/VC",
+    "Ideal for Conditions"
+  ],
+  "description": "Fine young player with a wide array of shots. Can chip in with left-arm spin too",
+  "careerStats": {
+    "matches": "25 Matches",
+    "batting": {
+      "innings": "23 Innings",
+      "runs": "240",
+      "average": "14.12",
+      "strikeRate": "118.23",
+      "fifties": "1",
+      "hundreds": "0",
+      "highestScore": "68"
+    },
+    "bowling": {
+      "innings": "15 Innings",
+      "wickets": "13",
+      "average": "20.77",
+      "economy": "6.59",
+      "maidens": "1",
+      "4w": "0",
+      "bestPerformance": "3-22"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "8(14)",
+          "57.14",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "95056",
+          "11(9)",
+          "122.22",
+          "1",
+          "0",
+          "SFU"
+        ],
+        "followUpLinkText": "waf-vs-sfu-final-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "95038",
+          "3(9)",
+          "33.33",
+          "0",
+          "0",
+          "SFU"
+        ],
+        "followUpLinkText": "waf-vs-sfu-qualifier-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "95016",
+          "16(6)",
+          "266.67",
+          "0",
+          "2",
+          "SFU"
+        ],
+        "followUpLinkText": "sfu-vs-waf-20th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "95002",
+          "1(2)",
+          "50.00",
+          "0",
+          "0",
+          "TSK"
+        ],
+        "followUpLinkText": "tsk-vs-waf-17th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94984",
+          "31(14)",
+          "221.43",
+          "2",
+          "2",
+          "MINY"
+        ],
+        "followUpLinkText": "miny-vs-waf-14th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94966",
+          "11(16)",
+          "68.75",
+          "1",
+          "0",
+          "LAKR"
+        ],
+        "followUpLinkText": "waf-vs-lakr-11th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94948",
+          "26(16)",
+          "162.50",
+          "3",
+          "2",
+          "SOR"
+        ],
+        "followUpLinkText": "sor-vs-waf-8th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "87766",
+          "6(11)",
+          "54.55",
+          "0",
+          "0",
+          "PNG"
+        ],
+        "followUpLinkText": "nz-vs-png-39th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "87717",
+          "1*(1)",
+          "100.00",
+          "0",
+          "0",
+          "UGA"
+        ],
+        "followUpLinkText": "nz-vs-uga-32nd-match-group-c-icc-mens-t20-world-cup-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "1",
+          "0",
+          "14",
+          "14.00",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "95056",
+          "4",
+          "3",
+          "23",
+          "5.75",
+          "SFU"
+        ],
+        "followUpLinkText": "waf-vs-sfu-final-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "95038",
+          "2",
+          "4",
+          "11",
+          "4.58",
+          "SFU"
+        ],
+        "followUpLinkText": "waf-vs-sfu-qualifier-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "95016",
+          "1",
+          "0",
+          "11",
+          "7.86",
+          "SFU"
+        ],
+        "followUpLinkText": "sfu-vs-waf-20th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "95002",
+          "3",
+          "4",
+          "16",
+          "4.57",
+          "TSK"
+        ],
+        "followUpLinkText": "tsk-vs-waf-17th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94984",
+          "1",
+          "0",
+          "5",
+          "5.00",
+          "MINY"
+        ],
+        "followUpLinkText": "miny-vs-waf-14th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94966",
+          "2",
+          "1",
+          "7",
+          "3.50",
+          "LAKR"
+        ],
+        "followUpLinkText": "waf-vs-lakr-11th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "87717",
+          "3",
+          "2",
+          "9",
+          "3.00",
+          "UGA"
+        ],
+        "followUpLinkText": "nz-vs-uga-32nd-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "91380",
+          "1",
+          "0",
+          "4",
+          "4.00",
+          "KKR"
+        ],
+        "followUpLinkText": "csk-vs-kkr-22nd-match-indian-premier-league-2024"
+      },
+      {
+        "values": [
+          "89752",
+          "1",
+          "0",
+          "3",
+          "3.00",
+          "SRH"
+        ],
+        "followUpLinkText": "srh-vs-csk-18th-match-indian-premier-league-2024"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "5 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "runs": "37",
+      "average": "12.33",
+      "strikeRate": "115.62",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "26"
+    },
+    "bowling": {
+      "innings": "3 Innings",
+      "wickets": "1",
+      "average": "65.00",
+      "economy": "10.83",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "1-24"
+    }
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "runs": "9",
+      "average": "4.50",
+      "strikeRate": "50.00",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "8"
+    },
+    "bowling": {
+      "innings": "1 Innings",
+      "wickets": "0",
+      "economy": "14.00",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "0-0"
+    }
+  }
+}

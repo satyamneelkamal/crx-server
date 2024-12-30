@@ -1,0 +1,173 @@
+{
+  "id": 10939,
+  "fullName": "Avishka Fernando",
+  "country": "Sri Lanka",
+  "role": "Batter",
+  "faceImageId": 170702,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Anchor",
+    "battingPosition": "Opener"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm fast-medium"
+  },
+  "keyInfo": [
+    "Aggressive stroke-maker especially against fast bowling",
+    "Shows a lot of intent in the powerplay"
+  ],
+  "badges": [
+    "Ideal for Conditions",
+    "In form"
+  ],
+  "careerStats": {
+    "matches": "35 Matches",
+    "batting": {
+      "innings": "33 Innings",
+      "runs": "341",
+      "average": "11.0",
+      "strikeRate": "92.92",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "37"
+    },
+    "bowling": null
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "110269",
+          "50*(26)",
+          "192.31",
+          "3",
+          "4",
+          "KDB"
+        ],
+        "followUpLinkText": "kdb-vs-nek-20th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110241",
+          "0(1)",
+          "0.00",
+          "0",
+          "0",
+          "JFT"
+        ],
+        "followUpLinkText": "jft-vs-nek-15th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110221",
+          "1(2)",
+          "50.00",
+          "0",
+          "0",
+          "HBT"
+        ],
+        "followUpLinkText": "hbt-vs-nek-12th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110161",
+          "50*(18)",
+          "277.78",
+          "3",
+          "5",
+          "CLJR"
+        ],
+        "followUpLinkText": "nek-vs-cljr-2nd-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "109603",
+          "5(3)",
+          "166.67",
+          "1",
+          "0",
+          "DBL"
+        ],
+        "followUpLinkText": "upn-vs-dbl-eliminator-1-4v5-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109575",
+          "36(16)",
+          "225.00",
+          "4",
+          "2",
+          "BGT"
+        ],
+        "followUpLinkText": "bgt-vs-upn-32nd-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109561",
+          "23(13)",
+          "176.92",
+          "1",
+          "2",
+          "CBJ"
+        ],
+        "followUpLinkText": "cbj-vs-upn-30th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109526",
+          "17(10)",
+          "170.00",
+          "2",
+          "0",
+          "NYS"
+        ],
+        "followUpLinkText": "upn-vs-nys-24th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109498",
+          "34(17)",
+          "200.00",
+          "5",
+          "1",
+          "DEG"
+        ],
+        "followUpLinkText": "upn-vs-deg-19th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109460",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "NW"
+        ],
+        "followUpLinkText": "upn-vs-nw-12th-match-abu-dhabi-t10-league-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "3 Matches",
+    "batting": {
+      "innings": "3 Innings",
+      "runs": "53",
+      "average": "17.67",
+      "strikeRate": "98.15",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "37"
+    },
+    "bowling": null
+  }
+}

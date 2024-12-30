@@ -1,0 +1,194 @@
+{
+  "id": 16458,
+  "fullName": "Matheesha Pathirana",
+  "country": "Sri Lanka",
+  "role": "Bowler",
+  "faceImageId": 351888,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingPosition": "Tailender"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm fast",
+    "bowlingRole": "Powerplay and Death Overs Bowler",
+    "bowlingVariations": [
+      "Yorker",
+      "Back of length",
+      "Cross-seam",
+      "Slower Ball"
+    ],
+    "stockDelivery": "Yorker"
+  },
+  "keyInfo": [
+    "Has a slingy action like Lasith Malinga",
+    "Bowls quality toe-crushers and slower balls",
+    "Has built up a reputation of being an excellent death-bowler"
+  ],
+  "badges": [
+    "Ideal for Conditions"
+  ],
+  "description": "His slingy action is difficult to pick. Can nail the yorkers at the death",
+  "careerStats": {
+    "matches": "19 Matches",
+    "batting": {
+      "innings": "18 Innings",
+      "wickets": "30",
+      "average": "16.27",
+      "economy": "8.56",
+      "maidens": "1",
+      "4w": "2",
+      "bestPerformance": "4-24"
+    },
+    "bowling": null
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "1",
+          "60",
+          "15.00",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110185",
+          "2",
+          "1",
+          "34",
+          "17.00",
+          "JFT"
+        ],
+        "followUpLinkText": "jft-vs-cljr-6th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "109558",
+          "2",
+          "1",
+          "17",
+          "8.50",
+          "DBL"
+        ],
+        "followUpLinkText": "nys-vs-dbl-29th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109544",
+          "2",
+          "0",
+          "23",
+          "11.50",
+          "NW"
+        ],
+        "followUpLinkText": "nw-vs-nys-27th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109526",
+          "2",
+          "0",
+          "22",
+          "11.00",
+          "UPN"
+        ],
+        "followUpLinkText": "upn-vs-nys-24th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109481",
+          "2",
+          "0",
+          "10",
+          "5.00",
+          "AD"
+        ],
+        "followUpLinkText": "ad-vs-nys-16th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109467",
+          "2",
+          "0",
+          "29",
+          "14.50",
+          "DEG"
+        ],
+        "followUpLinkText": "nys-vs-deg-14th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109446",
+          "2",
+          "1",
+          "18",
+          "9.00",
+          "BGT"
+        ],
+        "followUpLinkText": "bgt-vs-nys-9th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109425",
+          "2",
+          "0",
+          "20",
+          "10.00",
+          "MSA"
+        ],
+        "followUpLinkText": "nys-vs-msa-5th-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "108739",
+          "4",
+          "3",
+          "11",
+          "2.75",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "wickets": "7",
+      "average": "19.57",
+      "economy": "9.13",
+      "maidens": "1",
+      "4w": "0",
+      "bestPerformance": "3-11"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "wickets": "2",
+      "average": "48.50",
+      "economy": "12.12",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "1-37"
+    },
+    "bowling": null
+  }
+}

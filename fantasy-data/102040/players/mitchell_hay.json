@@ -1,0 +1,177 @@
+{
+  "id": 18612,
+  "fullName": "Mitchell Hay",
+  "country": "New Zealand",
+  "role": "WK-Batter",
+  "faceImageId": 174146,
+  "batting": {
+    "batStyle": "Right-hand bat"
+  },
+  "badges": [
+    "Ideal for Conditions",
+    "In form"
+  ],
+  "careerStats": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "runs": "44",
+      "average": "14.67",
+      "strikeRate": "162.96",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "41"
+    },
+    "bowling": null
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "0(1)",
+          "0.00",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "3(5)",
+          "60.00",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "0(2)",
+          "0.00",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "39778",
+          "2(5)",
+          "40.00",
+          "0",
+          "0",
+          "NK"
+        ],
+        "followUpLinkText": "nk-vs-cntbry-final-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39773",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "WEL"
+        ],
+        "followUpLinkText": "cntbry-vs-wel-elimination-final-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39683",
+          "6(5)",
+          "120.00",
+          "0",
+          "0",
+          "AKL"
+        ],
+        "followUpLinkText": "cntbry-vs-akl-25th-match-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39741",
+          "2(4)",
+          "50.00",
+          "0",
+          "0",
+          "AKL"
+        ],
+        "followUpLinkText": "akl-vs-cntbry-20th-match-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39736",
+          "8(4)",
+          "200.00",
+          "0",
+          "1",
+          "CD"
+        ],
+        "followUpLinkText": "cd-vs-cntbry-18th-match-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39708",
+          "8*(3)",
+          "266.67",
+          "0",
+          "1",
+          "WEL"
+        ],
+        "followUpLinkText": "wel-vs-cntbry-9th-match-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39691",
+          "29(16)",
+          "181.25",
+          "3",
+          "2",
+          "CD"
+        ],
+        "followUpLinkText": "cntbry-vs-cd-5th-match-super-smash-2021-22"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "runs": "44",
+      "average": "14.67",
+      "strikeRate": "162.96",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "41"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "runs": "41",
+      "average": "41.00",
+      "strikeRate": "205.00",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "41"
+    },
+    "bowling": null
+  }
+}

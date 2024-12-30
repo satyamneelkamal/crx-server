@@ -1,0 +1,329 @@
+{
+  "id": 24391,
+  "fullName": "Zakary Foulkes",
+  "country": "New Zealand",
+  "role": "Bowling Allrounder",
+  "faceImageId": 174146,
+  "batting": {
+    "batStyle": "Right-hand bat"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm medium"
+  },
+  "badges": [
+    "Ideal for Conditions",
+    "Off Field Pick"
+  ],
+  "description": "Has good slower-ball variations and bowls at the death, taking wickets often",
+  "careerStats": {
+    "matches": "6 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "runs": "34",
+      "average": "11.33",
+      "strikeRate": "141.67",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "27"
+    },
+    "bowling": {
+      "innings": "5 Innings",
+      "wickets": "7",
+      "average": "22.57",
+      "economy": "8.32",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "3-20"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "1(1)",
+          "100.00",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "6(6)",
+          "100.00",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "27*(16)",
+          "168.75",
+          "1",
+          "1",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "85232",
+          "0(1)",
+          "0.00",
+          "0",
+          "0",
+          "GLOUCS"
+        ],
+        "followUpLinkText": "warks-vs-gloucs-quarter-final-4-t20-blast-2024"
+      },
+      {
+        "values": [
+          "95854",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "LEIC"
+        ],
+        "followUpLinkText": "warks-vs-leic-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "85127",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "NHNTS"
+        ],
+        "followUpLinkText": "nhnts-vs-warks-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "85071",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "DERBY"
+        ],
+        "followUpLinkText": "warks-vs-derby-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "85015",
+          "1(2)",
+          "50.00",
+          "0",
+          "0",
+          "WORCS"
+        ],
+        "followUpLinkText": "warks-vs-worcs-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "84924",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "NOTTS"
+        ],
+        "followUpLinkText": "notts-vs-warks-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "84854",
+          "6(2)",
+          "300.00",
+          "0",
+          "1",
+          "YORKS"
+        ],
+        "followUpLinkText": "yorks-vs-warks-north-group-t20-blast-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "2",
+          "41",
+          "10.25",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "4",
+          "1",
+          "23",
+          "5.75",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "3",
+          "3",
+          "20",
+          "6.67",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "85232",
+          "3",
+          "3",
+          "22",
+          "7.33",
+          "GLOUCS"
+        ],
+        "followUpLinkText": "warks-vs-gloucs-quarter-final-4-t20-blast-2024"
+      },
+      {
+        "values": [
+          "95854",
+          "2",
+          "1",
+          "24",
+          "12.00",
+          "LEIC"
+        ],
+        "followUpLinkText": "warks-vs-leic-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "85127",
+          "4",
+          "0",
+          "39",
+          "9.75",
+          "NHNTS"
+        ],
+        "followUpLinkText": "nhnts-vs-warks-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "85071",
+          "3",
+          "1",
+          "25",
+          "8.33",
+          "DERBY"
+        ],
+        "followUpLinkText": "warks-vs-derby-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "85015",
+          "3",
+          "1",
+          "30",
+          "10.00",
+          "WORCS"
+        ],
+        "followUpLinkText": "warks-vs-worcs-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "84924",
+          "2",
+          "1",
+          "6",
+          "3.00",
+          "NOTTS"
+        ],
+        "followUpLinkText": "notts-vs-warks-north-group-t20-blast-2024"
+      },
+      {
+        "values": [
+          "84854",
+          "3",
+          "1",
+          "39",
+          "13.00",
+          "YORKS"
+        ],
+        "followUpLinkText": "yorks-vs-warks-north-group-t20-blast-2024"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "3 Innings",
+      "runs": "34",
+      "average": "17.00",
+      "strikeRate": "147.83",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "27"
+    },
+    "bowling": {
+      "innings": "3 Innings",
+      "wickets": "6",
+      "average": "14.00",
+      "economy": "7.64",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "3-20"
+    }
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "1 Innings",
+      "runs": "1",
+      "average": "1.00",
+      "strikeRate": "100.00",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "1"
+    },
+    "bowling": {
+      "innings": "1 Innings",
+      "wickets": "2",
+      "average": "20.50",
+      "economy": "10.25",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-41"
+    }
+  }
+}

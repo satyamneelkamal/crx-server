@@ -1,0 +1,39 @@
+{
+    "name": "cricket-extension",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Cricket Scorecard Extension Server",
+    "main": "crex-server.js",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "scripts": {
+        "start": "node crex-server.js",
+        "kill-port": "node scripts/kill-port.js 5000",
+        "restructure": "node scripts/restructure.js",
+        "restructure:reverse": "node scripts/restructure.js --reverse",
+        "test:info": "node content/test-info-scraping.js"
+    },
+    "dependencies": {
+        "@playwright/test": "^1.49.0",
+        "axios": "^1.6.2",
+        "cheerio": "^1.0.0-rc.12",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.0",
+        "express": "^4.21.1",
+        "node-fetch": "^3.3.2",
+        "puppeteer": "^23.9.0",
+        "util": "^0.12.5",
+        "ws": "^8.18.0"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0",
+        "playwright": "^1.49.1"
+    },
+    "directories": {
+        "test": "tests"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

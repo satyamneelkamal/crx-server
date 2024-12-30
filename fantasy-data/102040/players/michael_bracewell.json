@@ -1,0 +1,343 @@
+{
+  "id": 9551,
+  "fullName": "Michael Bracewell",
+  "country": "New Zealand",
+  "role": "Batting Allrounder",
+  "faceImageId": 578429,
+  "batting": {
+    "batStyle": "Left-hand bat",
+    "battingRole": "Power Hitter",
+    "battingPosition": "Lower Order"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm offbreak",
+    "bowlingRole": "Middle Overs Bowler",
+    "bowlingVariations": [
+      "Off Spin",
+      "Arm Ball",
+      "Straight Ball",
+      "Seam-up"
+    ],
+    "stockDelivery": "Off Spin"
+  },
+  "keyInfo": [
+    "Aggressive hitter lower down the order",
+    "Varies pace while bowling to deceive batters",
+    "Has been in great nick in the recent ODIs"
+  ],
+  "badges": [
+    "C/VC",
+    "Ideal for Conditions"
+  ],
+  "description": "Aggressive middle-order batter and a conventional offspin bowler. Impressed in the 1st game",
+  "careerStats": {
+    "matches": "26 Matches",
+    "batting": {
+      "innings": "19 Innings",
+      "runs": "258",
+      "average": "19.85",
+      "strikeRate": "130.30",
+      "fifties": "2",
+      "hundreds": "0",
+      "highestScore": "61"
+    },
+    "bowling": {
+      "innings": "22 Innings",
+      "wickets": "27",
+      "average": "16.74",
+      "economy": "6.65",
+      "maidens": "1",
+      "4w": "0",
+      "bestPerformance": "3-5"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "59(33)",
+          "178.79",
+          "4",
+          "4",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "0(4)",
+          "0.00",
+          "0",
+          "0",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "27(24)",
+          "112.50",
+          "2",
+          "1",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "95020",
+          "4(8)",
+          "50.00",
+          "0",
+          "0",
+          "TSK"
+        ],
+        "followUpLinkText": "tsk-vs-sor-21st-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94989",
+          "5(7)",
+          "71.43",
+          "0",
+          "0",
+          "LAKR"
+        ],
+        "followUpLinkText": "sor-vs-lakr-15th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94903",
+          "5(5)",
+          "100.00",
+          "1",
+          "0",
+          "MINY"
+        ],
+        "followUpLinkText": "miny-vs-sor-1st-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "87591",
+          "0(1)",
+          "0.00",
+          "0",
+          "0",
+          "AFG"
+        ],
+        "followUpLinkText": "nz-vs-afg-14th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "91007",
+          "23(21)",
+          "109.52",
+          "2",
+          "1",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-5th-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "91000",
+          "27(20)",
+          "135.00",
+          "2",
+          "0",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-4th-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "90993",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-3rd-t20i-new-zealand-tour-of-pakistan-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "3",
+          "0",
+          "30",
+          "10.00",
+          "SL"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "4",
+          "2",
+          "23",
+          "5.75",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "4",
+          "1",
+          "31",
+          "7.75",
+          "SL"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "95020",
+          "3",
+          "1",
+          "25",
+          "8.33",
+          "TSK"
+        ],
+        "followUpLinkText": "tsk-vs-sor-21st-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94989",
+          "3",
+          "0",
+          "19",
+          "6.33",
+          "LAKR"
+        ],
+        "followUpLinkText": "sor-vs-lakr-15th-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "94903",
+          "2",
+          "0",
+          "14",
+          "7.00",
+          "MINY"
+        ],
+        "followUpLinkText": "miny-vs-sor-1st-match-major-league-cricket-2024"
+      },
+      {
+        "values": [
+          "87591",
+          "3",
+          "0",
+          "27",
+          "9.00",
+          "AFG"
+        ],
+        "followUpLinkText": "nz-vs-afg-14th-match-group-c-icc-mens-t20-world-cup-2024"
+      },
+      {
+        "values": [
+          "91007",
+          "3",
+          "0",
+          "28",
+          "9.33",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-5th-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "91000",
+          "4",
+          "1",
+          "31",
+          "7.75",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-4th-t20i-new-zealand-tour-of-pakistan-2024"
+      },
+      {
+        "values": [
+          "90993",
+          "4",
+          "1",
+          "40",
+          "10.00",
+          "PAK"
+        ],
+        "followUpLinkText": "pak-vs-nz-3rd-t20i-new-zealand-tour-of-pakistan-2024"
+      }
+    ]
+  },
+  "vs SL": {
+    "matches": "4 Matches",
+    "batting": {
+      "innings": "4 Innings",
+      "runs": "91",
+      "average": "30.33",
+      "strikeRate": "142.19",
+      "fifties": "1",
+      "hundreds": "0",
+      "highestScore": "59"
+    },
+    "bowling": {
+      "innings": "3 Innings",
+      "wickets": "3",
+      "average": "28.00",
+      "economy": "7.64",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-23"
+    }
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "runs": "64",
+      "average": "64.00",
+      "strikeRate": "177.78",
+      "fifties": "1",
+      "hundreds": "0",
+      "highestScore": "59"
+    },
+    "bowling": {
+      "innings": "1 Innings",
+      "wickets": "0",
+      "economy": "10.00",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "0-0"
+    }
+  }
+}

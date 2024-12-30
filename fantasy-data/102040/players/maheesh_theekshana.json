@@ -1,0 +1,195 @@
+{
+  "id": 18504,
+  "fullName": "Maheesh Theekshana",
+  "country": "Sri Lanka",
+  "role": "Bowler",
+  "faceImageId": 577526,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Pinch Hitter",
+    "battingPosition": "Tailender"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm offbreak",
+    "bowlingRole": "Mystery bowler",
+    "bowlingVariations": [
+      "Off Spin",
+      "Straight Ball",
+      "Carrom Ball",
+      "Googly"
+    ],
+    "stockDelivery": "Inswing"
+  },
+  "keyInfo": [
+    "Strong powerplay bowler",
+    "Excellent defensive bowler",
+    "Can bowl at all stages of an innings"
+  ],
+  "badges": [
+    "Ideal for Conditions",
+    "In form"
+  ],
+  "careerStats": {
+    "matches": "59 Matches",
+    "batting": {
+      "innings": "59 Innings",
+      "wickets": "58",
+      "average": "26.00",
+      "economy": "6.82",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "3-17"
+    },
+    "bowling": null
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "2",
+          "29",
+          "7.25",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110289",
+          "2",
+          "3",
+          "13",
+          "6.50",
+          "HBT"
+        ],
+        "followUpLinkText": "hbt-vs-gam-qualifier-2-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110281",
+          "2",
+          "1",
+          "26",
+          "13.00",
+          "KDB"
+        ],
+        "followUpLinkText": "gam-vs-kdb-eliminator-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110273",
+          "2",
+          "1",
+          "10",
+          "5.00",
+          "HBT"
+        ],
+        "followUpLinkText": "gam-vs-hbt-21st-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110237",
+          "2",
+          "2",
+          "15",
+          "7.50",
+          "CLJR"
+        ],
+        "followUpLinkText": "cljr-vs-gam-14th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110213",
+          "1",
+          "0",
+          "30",
+          "30.00",
+          "JFT"
+        ],
+        "followUpLinkText": "gam-vs-jft-11th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110169",
+          "2",
+          "1",
+          "25",
+          "12.50",
+          "KDB"
+        ],
+        "followUpLinkText": "kdb-vs-gam-3rd-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "109621",
+          "2",
+          "1",
+          "20",
+          "10.00",
+          "MSA"
+        ],
+        "followUpLinkText": "deg-vs-msa-final-q1-winner-v-q2-winner-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109600",
+          "2",
+          "0",
+          "24",
+          "12.00",
+          "MSA"
+        ],
+        "followUpLinkText": "deg-vs-msa-qualifier-1-1v2-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109533",
+          "2",
+          "2",
+          "21",
+          "10.50",
+          "BGT"
+        ],
+        "followUpLinkText": "deg-vs-bgt-25th-match-abu-dhabi-t10-league-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "8 Matches",
+    "batting": {
+      "innings": "8 Innings",
+      "wickets": "7",
+      "average": "30.71",
+      "economy": "6.94",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-29"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "wickets": "2",
+      "average": "40.50",
+      "economy": "10.12",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-29"
+    },
+    "bowling": null
+  }
+}

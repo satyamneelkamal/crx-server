@@ -1,0 +1,185 @@
+{
+  "id": 9494,
+  "fullName": "Kusal Mendis",
+  "country": "Sri Lanka",
+  "role": "WK-Batter",
+  "faceImageId": 577898,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Innings controller",
+    "battingPosition": "Top Order"
+  },
+  "keyInfo": [
+    "Extremely gifted strokemaker - proficient against pace and spin",
+    "High intent in the powerplay and can also bat long",
+    "Very effective wicket-keeper"
+  ],
+  "badges": [
+    "Ideal for Conditions",
+    "In form"
+  ],
+  "description": "Made 46 in the last game and was good behind the stumps. Good fantasy potential",
+  "careerStats": {
+    "matches": "76 Matches",
+    "batting": {
+      "innings": "76 Innings",
+      "runs": "1888",
+      "average": "25.86",
+      "strikeRate": "132.03",
+      "fifties": "15",
+      "hundreds": "0",
+      "highestScore": "86"
+    },
+    "bowling": null
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "46(36)",
+          "127.78",
+          "6",
+          "1",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110297",
+          "11(4)",
+          "275.00",
+          "1",
+          "1",
+          "HBT"
+        ],
+        "followUpLinkText": "jft-vs-hbt-final-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110277",
+          "47(25)",
+          "188.00",
+          "2",
+          "4",
+          "HBT"
+        ],
+        "followUpLinkText": "jft-vs-hbt-qualifier-1-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110265",
+          "79*(23)",
+          "343.48",
+          "11",
+          "5",
+          "CLJR"
+        ],
+        "followUpLinkText": "cljr-vs-jft-19th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110241",
+          "9(6)",
+          "150.00",
+          "2",
+          "0",
+          "NEK"
+        ],
+        "followUpLinkText": "jft-vs-nek-15th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110213",
+          "31(16)",
+          "193.75",
+          "0",
+          "4",
+          "GAM"
+        ],
+        "followUpLinkText": "gam-vs-jft-11th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110185",
+          "37(19)",
+          "194.74",
+          "6",
+          "1",
+          "CLJR"
+        ],
+        "followUpLinkText": "jft-vs-cljr-6th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "108739",
+          "2(7)",
+          "28.57",
+          "0",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "0(5)",
+          "0.00",
+          "0",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108259",
+          "68*(50)",
+          "136.00",
+          "5",
+          "3",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "10 Matches",
+    "batting": {
+      "innings": "10 Innings",
+      "runs": "282",
+      "average": "28.2",
+      "strikeRate": "134.93",
+      "fifties": "2",
+      "hundreds": "0",
+      "highestScore": "79"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "1 Matches",
+    "batting": {
+      "innings": "1 Innings",
+      "runs": "46",
+      "average": "46.0",
+      "strikeRate": "127.78",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "46"
+    },
+    "bowling": null
+  }
+}

@@ -1,0 +1,2661 @@
+{
+  "Innings": [
+    {
+      "Number": "First",
+      "Battingteam": "5",
+      "Bowlingteam": "8",
+      "Total": "186",
+      "Wickets": "5",
+      "Overs": "20.0",
+      "Total_Balls_Bowled": "120",
+      "AllotedBalls": "120",
+      "Runrate": "9.30",
+      "Runsperball": "1.55",
+      "Byes": "0",
+      "Legbyes": "7",
+      "Wides": "8",
+      "Noballs": "0",
+      "Penalty": "0",
+      "AllottedOvers": "20",
+      "Batsmen": [
+        {
+          "Batsman": "90292",
+          "Runs": "41",
+          "Balls": "34",
+          "Fours": "3",
+          "Sixes": "2",
+          "Dots": "15",
+          "Strikerate": "120.58",
+          "Dismissal": "bowled",
+          "Howout": "b Wanindu Hasaranga",
+          "Howout_short": "b W Hasaranga",
+          "Bowler": "65027",
+          "Fielder": "",
+          "RunScoredInLastBalls": {
+            "10": "13",
+            "20": "30",
+            "30": "41"
+          },
+          "Number": 1,
+          "DismissalType": "bowled",
+          "DismissalId": "b"
+        },
+        {
+          "Batsman": "66053",
+          "Runs": "1",
+          "Balls": "4",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "3",
+          "Strikerate": "25",
+          "Dismissal": "caught",
+          "Howout": "c Matheesha Pathirana b Nuwan Thushara",
+          "Howout_short": "c M Pathirana b N Thushara",
+          "Bowler": "66158",
+          "Fielder": "73830",
+          "RunScoredInLastBalls": {},
+          "Number": 2,
+          "DismissalType": "caught",
+          "DismissalId": "ct"
+        },
+        {
+          "Batsman": "60536",
+          "Runs": "42",
+          "Balls": "29",
+          "Fours": "2",
+          "Sixes": "2",
+          "Dots": "7",
+          "Strikerate": "144.82",
+          "Dismissal": "stumped",
+          "Howout": "st Kusal Mendis b Wanindu Hasaranga",
+          "Howout_short": "st K Mendis b W Hasaranga",
+          "Bowler": "65027",
+          "Fielder": "63882",
+          "RunScoredInLastBalls": {
+            "10": "12",
+            "20": "26"
+          },
+          "Number": 3,
+          "DismissalType": "stumped",
+          "DismissalId": "st"
+        },
+        {
+          "Batsman": "65295",
+          "Runs": "23",
+          "Balls": "16",
+          "Fours": "2",
+          "Sixes": "1",
+          "Dots": "4",
+          "Strikerate": "143.75",
+          "Dismissal": "caught",
+          "Howout": "c Pathum Nissanka b Matheesha Pathirana",
+          "Howout_short": "c P Nissanka b M Pathirana",
+          "Bowler": "73830",
+          "Fielder": "66368",
+          "RunScoredInLastBalls": {
+            "10": "16"
+          },
+          "Number": 4,
+          "DismissalType": "caught",
+          "DismissalId": "ct"
+        },
+        {
+          "Batsman": "57444",
+          "Runs": "18",
+          "Balls": "15",
+          "Fours": "2",
+          "Sixes": "0",
+          "Dots": "5",
+          "Strikerate": "120",
+          "Dismissal": "run out",
+          "Howout": "run out (Binura Fernando)",
+          "Howout_short": "run out (B Fernando)",
+          "Bowler": "63889",
+          "Fielder": "63889",
+          "Fielder1": "63889",
+          "RunScoredInLastBalls": {
+            "10": "14"
+          },
+          "Number": 5,
+          "DismissalType": "run out",
+          "DismissalId": "ro"
+        },
+        {
+          "Batsman": "82695",
+          "Runs": "41",
+          "Balls": "19",
+          "Fours": "4",
+          "Sixes": "2",
+          "Dots": "4",
+          "Strikerate": "215.78",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Howout_short": "not out",
+          "Bowler": "",
+          "Fielder": "",
+          "RunScoredInLastBalls": {
+            "10": "29"
+          },
+          "Number": 6,
+          "DismissalType": "not out",
+          "DismissalId": "no"
+        },
+        {
+          "Batsman": "62325",
+          "Runs": "5",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "1",
+          "Strikerate": "166.66",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Howout_short": "not out",
+          "Bowler": "",
+          "Fielder": "",
+          "RunScoredInLastBalls": {},
+          "Number": 7,
+          "DismissalType": "not out",
+          "DismissalId": "no"
+        },
+        {
+          "Batsman": "57903",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 8,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "90571",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 9,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "60544",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 10,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "57672",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 11,
+          "DismissalType": "",
+          "DismissalId": ""
+        }
+      ],
+      "Partnership_Current": {
+        "Runs": "41",
+        "Balls": "15",
+        "ExtraRuns": "2",
+        "Batsmen": [
+          {
+            "Batsman": "82695",
+            "Runs": "34",
+            "Balls": "12"
+          },
+          {
+            "Batsman": "62325",
+            "Runs": "5",
+            "Balls": "3"
+          }
+        ],
+        "ForWicket": 6,
+        "Runrate": "16.40",
+        "Runsperball": "2.73"
+      },
+      "Bowlers": [
+        {
+          "Bowler": "66158",
+          "Overs": "4",
+          "Balls_Bowled": "24",
+          "Maidens": "0",
+          "Runs": "25",
+          "Wickets": "1",
+          "Economyrate": "6.25",
+          "Runsperball": "1.04",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "10",
+          "RungivenInLastBalls": {
+            "10": "13",
+            "20": "25"
+          },
+          "Number": 1,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 130.07
+        },
+        {
+          "Bowler": "63889",
+          "Overs": "4",
+          "Balls_Bowled": "24",
+          "Maidens": "0",
+          "Runs": "37",
+          "Wickets": "0",
+          "Economyrate": "9.25",
+          "Runsperball": "1.54",
+          "Noballs": "0",
+          "Wides": "1",
+          "Dots": "7",
+          "RungivenInLastBalls": {
+            "10": "23",
+            "20": "36"
+          },
+          "Number": 2,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 122.31
+        },
+        {
+          "Bowler": "69274",
+          "Overs": "4",
+          "Balls_Bowled": "24",
+          "Maidens": "0",
+          "Runs": "52",
+          "Wickets": "0",
+          "Economyrate": "13.00",
+          "Runsperball": "2.16",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "4",
+          "RungivenInLastBalls": {
+            "10": "30",
+            "20": "43"
+          },
+          "Number": 3,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 102.87
+        },
+        {
+          "Bowler": "73830",
+          "Overs": "4",
+          "Balls_Bowled": "24",
+          "Maidens": "0",
+          "Runs": "37",
+          "Wickets": "1",
+          "Economyrate": "9.25",
+          "Runsperball": "1.54",
+          "Noballs": "0",
+          "Wides": "3",
+          "Dots": "7",
+          "RungivenInLastBalls": {
+            "10": "13",
+            "20": "27"
+          },
+          "Number": 4,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 140.38
+        },
+        {
+          "Bowler": "65027",
+          "Overs": "4",
+          "Balls_Bowled": "24",
+          "Maidens": "0",
+          "Runs": "28",
+          "Wickets": "2",
+          "Economyrate": "7.00",
+          "Runsperball": "1.16",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "11",
+          "RungivenInLastBalls": {
+            "10": "12",
+            "20": "27"
+          },
+          "Number": 5,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 86.74
+        }
+      ],
+      "FallofWickets": [
+        {
+          "Batsman": "66053",
+          "Score": "13",
+          "Overs": "2.3",
+          "Wicket_No": 1,
+          "Review_status_id": 0,
+          "Ball_number": "15"
+        },
+        {
+          "Batsman": "90292",
+          "Score": "82",
+          "Overs": "9.2",
+          "Wicket_No": 2,
+          "Review_status_id": 0,
+          "Ball_number": "56"
+        },
+        {
+          "Batsman": "60536",
+          "Score": "116",
+          "Overs": "13.2",
+          "Wicket_No": 3,
+          "Review_status_id": 3,
+          "Ball_number": "80"
+        },
+        {
+          "Batsman": "65295",
+          "Score": "122",
+          "Overs": "14.3",
+          "Wicket_No": 4,
+          "Review_status_id": 0,
+          "Ball_number": "87"
+        },
+        {
+          "Batsman": "57444",
+          "Score": "145",
+          "Overs": "17.3",
+          "Wicket_No": 5,
+          "Review_status_id": 0,
+          "Ball_number": "105"
+        }
+      ],
+      "Partnerships": [
+        {
+          "Runs": "13",
+          "Balls": "15",
+          "ExtraRuns": "2",
+          "Batsmen": [
+            {
+              "Batsman": "90292",
+              "Runs": "10",
+              "Balls": "11"
+            },
+            {
+              "Batsman": "66053",
+              "Runs": "1",
+              "Balls": "4"
+            }
+          ],
+          "ForWicket": 1
+        },
+        {
+          "Runs": "69",
+          "Balls": "41",
+          "ExtraRuns": "8",
+          "Batsmen": [
+            {
+              "Batsman": "90292",
+              "Runs": "31",
+              "Balls": "23"
+            },
+            {
+              "Batsman": "60536",
+              "Runs": "30",
+              "Balls": "18"
+            }
+          ],
+          "ForWicket": 2
+        },
+        {
+          "Runs": "34",
+          "Balls": "24",
+          "ExtraRuns": "1",
+          "Batsmen": [
+            {
+              "Batsman": "65295",
+              "Runs": "21",
+              "Balls": "13"
+            },
+            {
+              "Batsman": "60536",
+              "Runs": "12",
+              "Balls": "11"
+            }
+          ],
+          "ForWicket": 3
+        },
+        {
+          "Runs": "6",
+          "Balls": "7",
+          "ExtraRuns": "1",
+          "Batsmen": [
+            {
+              "Batsman": "65295",
+              "Runs": "2",
+              "Balls": "3"
+            },
+            {
+              "Batsman": "57444",
+              "Runs": "3",
+              "Balls": "4"
+            }
+          ],
+          "ForWicket": 4
+        },
+        {
+          "Runs": "23",
+          "Balls": "18",
+          "ExtraRuns": "1",
+          "Batsmen": [
+            {
+              "Batsman": "82695",
+              "Runs": "7",
+              "Balls": "7"
+            },
+            {
+              "Batsman": "57444",
+              "Runs": "15",
+              "Balls": "11"
+            }
+          ],
+          "ForWicket": 5
+        },
+        {
+          "Runs": "41",
+          "Balls": "15",
+          "ExtraRuns": "2",
+          "Batsmen": [
+            {
+              "Batsman": "82695",
+              "Runs": "34",
+              "Balls": "12"
+            },
+            {
+              "Batsman": "62325",
+              "Runs": "5",
+              "Balls": "3"
+            }
+          ],
+          "ForWicket": 6,
+          "Runrate": "16.40",
+          "Runsperball": "2.73"
+        }
+      ],
+      "PowerPlay": {
+        "PP1": "1-6"
+      },
+      "PowerPlayDetails": [
+        {
+          "Name": "PP1",
+          "Overs": "1-6",
+          "Runs": "48",
+          "Wickets": "1"
+        }
+      ],
+      "LastOvers": {
+        "5": {
+          "Score": "62",
+          "Wicket": "1",
+          "Runrate": "12.40"
+        },
+        "10": {
+          "Score": "100",
+          "Wicket": "3",
+          "Runrate": "10.00"
+        }
+      },
+      "StatusId": 4,
+      "ReviewDetails": {
+        "Batting_review_count": 2,
+        "Bowling_review_count": 0,
+        "Reviews": [
+          {
+            "Team_id": 8,
+            "Over": "4.2",
+            "Batsman_id": 60536,
+            "Bowler_id": 69274,
+            "Review_type": "bowl",
+            "Review_for_id": 3,
+            "Review_for": "lbw",
+            "Review_output_id": 2,
+            "Review_output": "Unsuccessful",
+            "review_status_id": 3
+          },
+          {
+            "Team_id": 8,
+            "Over": "8.4",
+            "Batsman_id": 60536,
+            "Bowler_id": 73830,
+            "Review_type": "bowl",
+            "Review_for_id": 2,
+            "Review_for": "caught",
+            "Review_output_id": 2,
+            "Review_output": "Unsuccessful",
+            "review_status_id": 3
+          }
+        ]
+      },
+      "StartTimeStamp": "2024-12-30T11:45:47.000+0:00",
+      "OverNo": "20",
+      "BallNo": "7",
+      "Best_Performers": {
+        "Batsmen": [
+          {
+            "Player_Id": "60536",
+            "Player_Name": "Mark Chapman",
+            "Team_Id": "5",
+            "Team_Name": "New Zealand",
+            "Runs": "42",
+            "Balls": "29",
+            "Fours": "2",
+            "Sixes": "2",
+            "Strikerate": "144.82"
+          },
+          {
+            "Player_Id": "82695",
+            "Player_Name": "Mitchell Hay",
+            "Team_Id": "5",
+            "Team_Name": "New Zealand",
+            "Runs": "41",
+            "Balls": "19",
+            "Fours": "4",
+            "Sixes": "2",
+            "Strikerate": "215.78"
+          }
+        ],
+        "Bowlers": [
+          {
+            "Player_Id": "65027",
+            "Player_Name": "Wanindu Hasaranga",
+            "Team_Id": "8",
+            "Team_Name": "Sri Lanka",
+            "Wickets": "2",
+            "Balls_Bowled": "24",
+            "Economyrate": "7.00",
+            "Overs": "4",
+            "Runs": "28"
+          },
+          {
+            "Player_Id": "66158",
+            "Player_Name": "Nuwan Thushara",
+            "Team_Id": "8",
+            "Team_Name": "Sri Lanka",
+            "Wickets": "1",
+            "Balls_Bowled": "24",
+            "Economyrate": "6.25",
+            "Overs": "4",
+            "Runs": "25"
+          }
+        ]
+      }
+    },
+    {
+      "Number": "Second",
+      "Battingteam": "8",
+      "Bowlingteam": "5",
+      "Total": "46",
+      "Wickets": "1",
+      "Overs": "6.3",
+      "Total_Balls_Bowled": "39",
+      "AllotedBalls": "120",
+      "Runrate": "7.08",
+      "Runsperball": "1.17",
+      "Byes": "0",
+      "Legbyes": "0",
+      "Wides": "3",
+      "Noballs": "2",
+      "Penalty": "0",
+      "AllottedOvers": "20",
+      "Target": "187",
+      "Batsmen": [
+        {
+          "Batsman": "66368",
+          "Runs": "23",
+          "Balls": "19",
+          "Fours": "2",
+          "Sixes": "1",
+          "Dots": "8",
+          "Strikerate": "121.05",
+          "Dismissal": "",
+          "Howout": "Batting",
+          "Howout_short": "Batting",
+          "Bowler": "",
+          "Fielder": "",
+          "Isbatting": true,
+          "RunScoredInLastBalls": {
+            "10": "11"
+          },
+          "Number": 1,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "63882",
+          "Runs": "10",
+          "Balls": "12",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "6",
+          "Strikerate": "83.33",
+          "Dismissal": "caught",
+          "Howout": "c Daryl Mitchell b Mitchell Santner",
+          "Howout_short": "c D Mitchell b M Santner",
+          "Bowler": "57903",
+          "Fielder": "57444",
+          "RunScoredInLastBalls": {
+            "10": "7"
+          },
+          "Number": 2,
+          "DismissalType": "caught",
+          "DismissalId": "ct"
+        },
+        {
+          "Batsman": "11757",
+          "Runs": "8",
+          "Balls": "10",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "5",
+          "Strikerate": "80",
+          "Dismissal": "",
+          "Howout": "Batting",
+          "Howout_short": "Batting",
+          "Bowler": "",
+          "Fielder": "",
+          "Isbatting": true,
+          "Isonstrike": true,
+          "RunScoredInLastBalls": {
+            "10": "8"
+          },
+          "Number": 3,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "65030",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 4,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "65034",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 5,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "65038",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 6,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "65027",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 7,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "63889",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 8,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "69274",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 9,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "73830",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 10,
+          "DismissalType": "",
+          "DismissalId": ""
+        },
+        {
+          "Batsman": "66158",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Howout_short": "",
+          "Bowler": "",
+          "Fielder": "",
+          "Number": 11,
+          "DismissalType": "",
+          "DismissalId": ""
+        }
+      ],
+      "Partnership_Current": {
+        "Runs": "14",
+        "Balls": "16",
+        "ExtraRuns": "2",
+        "IsCurrent": "true",
+        "Batsmen": [
+          {
+            "Batsman": "66368",
+            "Runs": "4",
+            "Balls": "6"
+          },
+          {
+            "Batsman": "11757",
+            "Runs": "8",
+            "Balls": "10",
+            "IsStriker": true
+          }
+        ],
+        "ForWicket": 2,
+        "Runrate": "5.25",
+        "Runsperball": "0.87"
+      },
+      "Bowlers": [
+        {
+          "Bowler": "60544",
+          "Overs": "2",
+          "Balls_Bowled": "12",
+          "Maidens": "0",
+          "Runs": "18",
+          "Wickets": "0",
+          "Economyrate": "9.00",
+          "Runsperball": "1.50",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "6",
+          "RungivenInLastBalls": {
+            "10": "16"
+          },
+          "Number": 1,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 136.79
+        },
+        {
+          "Bowler": "57672",
+          "Overs": "1",
+          "Balls_Bowled": "6",
+          "Maidens": "0",
+          "Runs": "6",
+          "Wickets": "0",
+          "Economyrate": "6.00",
+          "Runsperball": "1.00",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "3",
+          "RungivenInLastBalls": {},
+          "Number": 2,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 133
+        },
+        {
+          "Bowler": "90571",
+          "Overs": "2",
+          "Balls_Bowled": "12",
+          "Maidens": "0",
+          "Runs": "18",
+          "Wickets": "0",
+          "Economyrate": "9.00",
+          "Runsperball": "1.50",
+          "Noballs": "2",
+          "Wides": "1",
+          "Dots": "4",
+          "Isbowlingtandem": true,
+          "RungivenInLastBalls": {
+            "10": "13"
+          },
+          "Number": 3,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 125.82
+        },
+        {
+          "Bowler": "57903",
+          "Overs": "1.3",
+          "Balls_Bowled": "9",
+          "Maidens": "0",
+          "Runs": "4",
+          "Wickets": "1",
+          "Economyrate": "2.66",
+          "Runsperball": "0.44",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "5",
+          "Isbowlingtandem": true,
+          "Isbowlingnow": true,
+          "ThisOver": [
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "0"
+            }
+          ],
+          "RungivenInLastBalls": {},
+          "Number": 4,
+          "Hattrick_Count": 0,
+          "Avg_Speed": 82.78
+        }
+      ],
+      "FallofWickets": [
+        {
+          "Batsman": "63882",
+          "Score": "32",
+          "Overs": "4.1",
+          "Wicket_No": 1,
+          "Review_status_id": 0,
+          "Ball_number": "25"
+        }
+      ],
+      "Partnerships": [
+        {
+          "Runs": "32",
+          "Balls": "25",
+          "ExtraRuns": "3",
+          "Batsmen": [
+            {
+              "Batsman": "66368",
+              "Runs": "19",
+              "Balls": "13"
+            },
+            {
+              "Batsman": "63882",
+              "Runs": "10",
+              "Balls": "12"
+            }
+          ],
+          "ForWicket": 1
+        },
+        {
+          "Runs": "14",
+          "Balls": "16",
+          "ExtraRuns": "2",
+          "IsCurrent": "true",
+          "Batsmen": [
+            {
+              "Batsman": "66368",
+              "Runs": "4",
+              "Balls": "6"
+            },
+            {
+              "Batsman": "11757",
+              "Runs": "8",
+              "Balls": "10",
+              "IsStriker": true
+            }
+          ],
+          "ForWicket": 2,
+          "Runrate": "5.25",
+          "Runsperball": "0.87"
+        }
+      ],
+      "PowerPlay": {
+        "PP1": "1-6"
+      },
+      "PowerPlayDetails": [
+        {
+          "Name": "PP1",
+          "Overs": "1-6",
+          "Runs": "44",
+          "Wickets": "1"
+        }
+      ],
+      "LastOvers": {
+        "5": {
+          "Score": "38",
+          "Wicket": "1",
+          "Runrate": "8.44"
+        }
+      },
+      "ReviewDetails": {
+        "Batting_review_count": 2,
+        "Bowling_review_count": 2,
+        "Reviews": []
+      },
+      "StartTimeStamp": "2024-12-30T13:43:07.000+0:00",
+      "At_this_stage": "52/1",
+      "OverNo": "7",
+      "BallNo": "3",
+      "Best_Performers": {
+        "Batsmen": [],
+        "Bowlers": []
+      }
+    }
+  ],
+  "Matchequation": {
+    "Team1_id": 8,
+    "Team1_name": "Sri Lanka",
+    "Runs": 141,
+    "Balls": 81,
+    "Raw_eq_type": 8,
+    "Rpo": "10.44",
+    "Equation": "Sri Lanka need 141 runs in 81 balls at 10.44 rpo",
+    "Eq_type": "need_to_win"
+  },
+  "language": "eng",
+  "Timestamp": "12/30/2024T14:11:49.413+05:30",
+  "Matchdetail": {
+    "Team_Home": "5",
+    "Team_Away": "8",
+    "Match": {
+      "Livecoverage": "yes",
+      "Id": "248570",
+      "Code": "nzsl12302024248570",
+      "League": "icc",
+      "League_Id": "1",
+      "Number": "2nd T20I",
+      "Type": "T20",
+      "Date": "12/30/2024",
+      "Time": "19:15",
+      "Revised_time_utc": "",
+      "Offset": "+13:00",
+      "Group": "",
+      "Coverage_level_id": "8",
+      "Coverage_level": "Live Scorecard, Ball-by-Ball and Commentary",
+      "Match_ordinal": "2",
+      "Daynight": "yes",
+      "Comp_type_id": "3",
+      "End_date": "12/30/2024",
+      "End_time": "23:15",
+      "Upcoming": false,
+      "Live": true,
+      "Recent": false,
+      "StartDate": "12/30/2024T06:15+00:00",
+      "is_provisional_date": false,
+      "is_provisional_time": false,
+      "match_in_progress": true,
+      "is_rescheduled": false,
+      "first_ball_bowled": true
+    },
+    "Series": {
+      "Id": "6608",
+      "Name": "Sri Lanka in New Zealand, 3 T20I Series, 2024/25",
+      "Series_short_display_name": "SL in NZ, 3 T20Is, 2024/25",
+      "Series_start_date": "12/28/2024",
+      "Series_end_date": "1/2/2025",
+      "Series_type": "Series",
+      "Status": "New Zealand lead the 3 T20I series 1-0",
+      "Tour": "5722",
+      "Tour_Name": "Sri Lanka tour of New Zealand, 2024/25",
+      "Has_standings": "false",
+      "Calendar_file_name": "calendar_new",
+      "Streaming_platform": [],
+      "Broadcasting_platform": [],
+      "is_provisional_date": false,
+      "Series_match_count": 3,
+      "Series_completed": false
+    },
+    "Venue": {
+      "Id": "1795",
+      "Name": "Bay Oval, Mount Maunganui",
+      "Country": "New Zealand",
+      "City": "Mount Maunganui",
+      "Latitude": "-37.652649",
+      "Longitude": "176.190739",
+      "Venue_Weather": {
+        "Weather_Id": "15",
+        "Weather": "Clear",
+        "Description": "clear sky",
+        "Humidity": "64%",
+        "Temperature": "19.95C",
+        "Visibility": "10000 meter",
+        "Wind_Speed": "1.79 meter/sec",
+        "Rain": ""
+      },
+      "Pitch_Detail": {
+        "Pitch_Suited_For_Id": "1",
+        "Pitch_Suited_For": "Batting friendly",
+        "Pitch_Surface_Id": "3",
+        "Pitch_Surface": "Dry"
+      }
+    },
+    "Officials": {
+      "Umpires": "Kim Cotton (NZ), Wayne Knights (NZ) and Chris Brown (NZ)",
+      "Referee": "Jeff Crowe (NZ)"
+    },
+    "Weather": "Clear",
+    "Tosswonby": "8",
+    "Toss_elected_to": "field",
+    "Status": "Play In Progress",
+    "Status_Id": "117",
+    "Equation": "Sri Lanka need 141 runs in 81 balls at 10.44 rpo",
+    "Required_Runrate": "10.44",
+    "Required_Rpb": "1.74",
+    "Lineup_status": 2,
+    "Verification_Completed_Until": {
+      "Inning_no": "1",
+      "Overs": "15"
+    }
+  },
+  "SerialNumber": 347,
+  "Nuggets": [],
+  "Teams": {
+    "5": {
+      "Name_Full": "New Zealand",
+      "Name_Short": "NZ",
+      "Players": {
+        "57444": {
+          "Position": "5",
+          "Name_Full": "Daryl Mitchell",
+          "Name_Short": "D Mitchell",
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "69",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "26.46",
+            "Strikerate": "138.15",
+            "Runs": "1376"
+          },
+          "Bowling": {
+            "Style": "RM",
+            "Average": "22.87",
+            "Economyrate": "10.87",
+            "Wickets": "8"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "57672": {
+          "Position": "11",
+          "Name_Full": "Jacob Duffy",
+          "Name_Short": "J Duffy",
+          "Skill": "2",
+          "Skill_Name": "Bowler",
+          "Role": "Bowler",
+          "Confirm_XI": true,
+          "Matches": "17",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "8.50",
+            "Strikerate": "89.47",
+            "Runs": "17"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "26.21",
+            "Economyrate": "7.48",
+            "Wickets": "14"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "57903": {
+          "Position": "8",
+          "Name_Full": "Mitchell Santner",
+          "Name_Short": "M Santner",
+          "Iscaptain": true,
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "108",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "16.53",
+            "Strikerate": "119.89",
+            "Runs": "711"
+          },
+          "Bowling": {
+            "Style": "SLO",
+            "Average": "22.09",
+            "Economyrate": "6.99",
+            "Wickets": "118"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "60536": {
+          "Position": "3",
+          "Name_Full": "Mark Chapman",
+          "Name_Short": "M Chapman",
+          "Skill": "1",
+          "Skill_Name": "Batsman",
+          "Role": "Batter",
+          "Confirm_XI": true,
+          "Matches": "80",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "27.72",
+            "Strikerate": "131.69",
+            "Runs": "1608"
+          },
+          "Bowling": {
+            "Style": "SLO",
+            "Average": "24.75",
+            "Economyrate": "7.07",
+            "Wickets": "4"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "60544": {
+          "Position": "10",
+          "Name_Full": "Matt Henry",
+          "Name_Short": "M Henry",
+          "Skill": "2",
+          "Skill_Name": "Bowler",
+          "Role": "Bowler",
+          "Confirm_XI": true,
+          "Matches": "20",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "6",
+            "Strikerate": "88.88",
+            "Runs": "24"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "24.12",
+            "Economyrate": "8.15",
+            "Wickets": "24"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "62325": {
+          "Position": "7",
+          "Name_Full": "Michael Bracewell",
+          "Name_Short": "M Bracewell",
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "26",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "19.84",
+            "Strikerate": "130.30",
+            "Runs": "258"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "16.74",
+            "Economyrate": "6.64",
+            "Wickets": "27"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "65295": {
+          "Position": "4",
+          "Name_Full": "Glenn Phillips",
+          "Name_Short": "G Phillips",
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "82",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "31.52",
+            "Strikerate": "140.77",
+            "Runs": "1923"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "21.83",
+            "Economyrate": "6.77",
+            "Wickets": "6"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "66053": {
+          "Position": "2",
+          "Name_Full": "Rachin Ravindra",
+          "Name_Short": "R Ravindra",
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "25",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "14.11",
+            "Strikerate": "118.22",
+            "Runs": "240"
+          },
+          "Bowling": {
+            "Style": "SLO",
+            "Average": "20.76",
+            "Economyrate": "6.58",
+            "Wickets": "13"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "82695": {
+          "Position": "6",
+          "Name_Full": "Mitchell Hay",
+          "Name_Short": "M Hay",
+          "Iskeeper": true,
+          "Skill": "4",
+          "Skill_Name": "Wicket Keeper",
+          "Role": "Wicket Keeper",
+          "Confirm_XI": true,
+          "Matches": "4",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "14.66",
+            "Strikerate": "162.96",
+            "Runs": "44"
+          },
+          "Bowling": {
+            "Style": "",
+            "Average": "0",
+            "Economyrate": "0.0",
+            "Wickets": "0"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "90292": {
+          "Position": "1",
+          "Name_Full": "Tim Robinson",
+          "Name_Short": "T Robinson",
+          "Skill": "1",
+          "Skill_Name": "Batsman",
+          "Role": "Batter",
+          "Confirm_XI": true,
+          "Matches": "8",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "17.25",
+            "Strikerate": "124.32",
+            "Runs": "138"
+          },
+          "Bowling": {
+            "Style": "RM",
+            "Average": "0",
+            "Economyrate": "0.0",
+            "Wickets": "0"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        },
+        "90571": {
+          "Position": "9",
+          "Name_Full": "Zakary Foulkes",
+          "Name_Short": "Z Foulkes",
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "6",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "11.33",
+            "Strikerate": "141.66",
+            "Runs": "34"
+          },
+          "Bowling": {
+            "Style": "RM",
+            "Average": "25.14",
+            "Economyrate": "8.38",
+            "Wickets": "7"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 5,
+          "nationality": "New Zealand"
+        }
+      }
+    },
+    "8": {
+      "Name_Full": "Sri Lanka",
+      "Name_Short": "SL",
+      "Players": {
+        "11757": {
+          "Position": "3",
+          "Name_Full": "Kusal Perera",
+          "Name_Short": "K Perera",
+          "Skill": "4",
+          "Skill_Name": "Wicket Keeper",
+          "Role": "Wicket Keeper",
+          "Confirm_XI": true,
+          "Matches": "76",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "26.85",
+            "Strikerate": "130.98",
+            "Runs": "1915"
+          },
+          "Bowling": {
+            "Style": "",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "63882": {
+          "Position": "2",
+          "Name_Full": "Kusal Mendis",
+          "Name_Short": "K Mendis",
+          "Iskeeper": true,
+          "Skill": "4",
+          "Skill_Name": "Wicket Keeper",
+          "Role": "Wicket Keeper",
+          "Confirm_XI": true,
+          "Matches": "77",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "25.64",
+            "Strikerate": "131.62",
+            "Runs": "1898"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "63889": {
+          "Position": "8",
+          "Name_Full": "Binura Fernando",
+          "Name_Short": "B Fernando",
+          "Skill": "2",
+          "Skill_Name": "Bowler",
+          "Role": "Bowler",
+          "Confirm_XI": true,
+          "Matches": "19",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "17",
+            "Strikerate": "100",
+            "Runs": "34"
+          },
+          "Bowling": {
+            "Style": "LMF",
+            "Average": "30.38",
+            "Economyrate": "8.39",
+            "Wickets": "18"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "65027": {
+          "Position": "7",
+          "Name_Full": "Wanindu Hasaranga",
+          "Name_Short": "W Hasaranga",
+          "Skill": "3",
+          "Skill_Name": "All-Rounder",
+          "Role": "All-Rounder",
+          "Confirm_XI": true,
+          "Matches": "78",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "13.67",
+            "Strikerate": "129.27",
+            "Runs": "711"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "15.35",
+            "Economyrate": "6.95",
+            "Wickets": "129"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "65030": {
+          "Position": "4",
+          "Name_Full": "Avishka Fernando",
+          "Name_Short": "A Fernando",
+          "Skill": "1",
+          "Skill_Name": "Batsman",
+          "Role": "Batter",
+          "Confirm_XI": true,
+          "Matches": "36",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "11",
+            "Strikerate": "92.91",
+            "Runs": "341"
+          },
+          "Bowling": {
+            "Style": "RMF",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "65034": {
+          "Position": "5",
+          "Name_Full": "Kamindu Mendis",
+          "Name_Short": "K Mendis",
+          "Skill": "3",
+          "Skill_Name": "Batsman",
+          "Role": "Batsman",
+          "Confirm_XI": true,
+          "Matches": "23",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "19.68",
+            "Strikerate": "123.02",
+            "Runs": "374"
+          },
+          "Bowling": {
+            "Style": "SLO",
+            "Average": "74",
+            "Economyrate": "8.22",
+            "Wickets": "2"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "65038": {
+          "Position": "6",
+          "Name_Full": "Charith Asalanka",
+          "Name_Short": "C Asalanka",
+          "Iscaptain": true,
+          "Skill": "1",
+          "Skill_Name": "All-Rounder",
+          "Role": "Batter",
+          "Confirm_XI": true,
+          "Matches": "57",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "24.10",
+            "Strikerate": "126.98",
+            "Runs": "1181"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "27.66",
+            "Economyrate": "6.82",
+            "Wickets": "3"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "66158": {
+          "Position": "11",
+          "Name_Full": "Nuwan Thushara",
+          "Name_Short": "N Thushara",
+          "Skill": "2",
+          "Skill_Name": "Bowler",
+          "Role": "Bowler",
+          "Confirm_XI": true,
+          "Matches": "17",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "4.50",
+            "Strikerate": "60",
+            "Runs": "9"
+          },
+          "Bowling": {
+            "Style": "RMF",
+            "Average": "16.08",
+            "Economyrate": "7.60",
+            "Wickets": "25"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "66368": {
+          "Position": "1",
+          "Name_Full": "Pathum Nissanka",
+          "Name_Short": "P Nissanka",
+          "Skill": "1",
+          "Skill_Name": "Batsman",
+          "Role": "Batter",
+          "Confirm_XI": true,
+          "Matches": "61",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "30.05",
+            "Strikerate": "120.22",
+            "Runs": "1706"
+          },
+          "Bowling": {
+            "Style": "",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "69274": {
+          "Position": "9",
+          "Name_Full": "Maheesh Theekshana",
+          "Name_Short": "M Theekshana",
+          "Skill": "2",
+          "Skill_Name": "Bowler",
+          "Role": "Bowler",
+          "Confirm_XI": true,
+          "Matches": "59",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "4.12",
+            "Strikerate": "65.34",
+            "Runs": "66"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "26",
+            "Economyrate": "6.82",
+            "Wickets": "58"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        },
+        "73830": {
+          "Position": "10",
+          "Name_Full": "Matheesha Pathirana",
+          "Name_Short": "M Pathirana",
+          "Skill": "2",
+          "Skill_Name": "Bowler",
+          "Role": "Bowler",
+          "Confirm_XI": true,
+          "Matches": "19",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "4.25",
+            "Strikerate": "54.83",
+            "Runs": "17"
+          },
+          "Bowling": {
+            "Style": "RF",
+            "Average": "16.13",
+            "Economyrate": "8.44",
+            "Wickets": "30"
+          },
+          "status_id": 12,
+          "status": "Available",
+          "nationality_id": 8,
+          "nationality": "Sri Lanka"
+        }
+      }
+    }
+  },
+  "createdTime": "2024-07-17T07:08:28+5:30",
+  "lastUpdatedTime": "2024-12-30T14:11:50+5:30",
+  "Notes": {
+    "1": [
+      "Referral 1 (4.2 ovs): SL against M Chapman (LBW) Unsuccessful (SL: 1, NZ: 2)",
+      "Mandatory Power play (1-6): New Zealand 48/1",
+      "New Zealand 50/1 in 6.1 overs",
+      "2nd wkt Partnership: 50 off 32 balls between T Robinson (24) and M Chapman (19)",
+      "Referral 2 (8.4 ovs): SL against M Chapman (Caught) Unsuccessful (SL: 0, NZ: 2)",
+      "Drinks: New Zealand 82/2 in 9.2",
+      "New Zealand 100/2 in 12.0 overs",
+      "New Zealand 150/5 in 17.5 overs",
+      "Innings Break: New Zealand 186/5 in 20.0 overs"
+    ],
+    "2": [
+      "Mandatory Power play (1-6): Sri Lanka 44/1"
+    ]
+  },
+  "matchId": "248570",
+  "commentary": [
+    {
+      "Ball": "2",
+      "Non_Striker": "11757",
+      "commentaryTimestamp": 1735548094000,
+      "Batsman": "66368",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:11:34+05:30",
+      "Runs": "1",
+      "Batsman_Short_Name": "P Nissanka",
+      "Over": "6.2",
+      "Default_Commentary": "6.2: Mitchell Santner to Pathum Nissanka, 1 run.",
+      "Ball_Speed": "79.5kph",
+      "Ball_Line_Length": "14,8,12,7,50,17",
+      "Bowler": "57903",
+      "Ball_Number": "38",
+      "Batsman_Details": {
+        "Batsman": "66368",
+        "Runs": "23",
+        "Balls": "19",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "1 run.",
+      "Over_No": "7",
+      "Edited_Commentary": 0,
+      "Bowler_Name": "Mitchell Santner",
+      "Bowler_Short_Name": "M Santner",
+      "Batsman_Name": "Pathum Nissanka",
+      "Milestone": [],
+      "Non_Striker_Name": "Kusal Perera",
+      "Batsman_Runs": "1",
+      "Bowler_Conceded_Runs": "1",
+      "OID": 20046,
+      "This_Over": "1,1,",
+      "UID": 20046,
+      "Score": "46/1",
+      "Batsman_Style": "R",
+      "Bowler_Details": {
+        "Bowler": "57903",
+        "Overs": "1.2",
+        "Maidens": "0",
+        "Runs": "4",
+        "Wickets": "1"
+      },
+      "Created_Timestamp": "2024-12-30T14:11:18+05:30",
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931555,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "46",
+      "Non_Striker_Short_Name": "K Perera",
+      "ZAD": "7,302,4",
+      "Non_Striker_Details": {
+        "Batsman": "11757",
+        "Runs": "8",
+        "Balls": "9",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"78.3\",\"79.5\""
+    },
+    {
+      "Ball": "1",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735548070000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:11:10+05:30",
+      "Runs": "1",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "6.1",
+      "Default_Commentary": "6.1: Mitchell Santner to Kusal Perera, 1 run.",
+      "Ball_Speed": "78.3kph",
+      "Ball_Line_Length": "19,9,29,11,51,24",
+      "Bowler": "57903",
+      "Ball_Number": "37",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "8",
+        "Balls": "9",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "1 run.",
+      "Over_No": "7",
+      "Edited_Commentary": 0,
+      "Bowler_Name": "Mitchell Santner",
+      "Bowler_Short_Name": "M Santner",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "1",
+      "Bowler_Conceded_Runs": "1",
+      "OID": 20045,
+      "This_Over": "1,",
+      "UID": 20045,
+      "Score": "45/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "57903",
+        "Overs": "1.1",
+        "Maidens": "0",
+        "Runs": "3",
+        "Wickets": "1"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931556,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "45",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "1,6,4",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "22",
+        "Balls": "18",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"78.3\""
+    },
+    {
+      "Ball": "8",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735548004000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:10:04+05:30",
+      "Runs": "1",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "5.6",
+      "Default_Commentary": "5.6: Zakary Foulkes to Kusal Perera, 1 run.",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "18,2,28,9,28,18",
+      "End_Over": true,
+      "Bowler": "90571",
+      "Ball_Number": "36",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "7",
+        "Balls": "8",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "Full and slower one on the stumps. Kusal Perera makes room and slaps it towards cover for a single.",
+      "Over_No": "6",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "1",
+      "Bowler_Conceded_Runs": "1",
+      "OID": 20044,
+      "This_Over": "0,1(1NB),1,4,0,2(1NB),1,1,",
+      "UID": 20044,
+      "Score": "44/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "2",
+        "Maidens": "0",
+        "Runs": "18",
+        "Wickets": "0"
+      },
+      "Created_Timestamp": "2024-12-30T14:09:40+05:30",
+      "inning": "2",
+      "Summary": {
+        "Score": "44/1",
+        "Over": "6",
+        "Runs": "10",
+        "Wickets": "0",
+        "Batsmen": [
+          {
+            "Batsman": "11757",
+            "Isonstrike": true,
+            "Runs": "7",
+            "Balls": "8",
+            "Fours": "1",
+            "Sixes": "0"
+          },
+          {
+            "Batsman": "66368",
+            "Runs": "22",
+            "Balls": "18",
+            "Fours": "2",
+            "Sixes": "1"
+          }
+        ],
+        "Bowlers": [
+          {
+            "Bowler": "90571",
+            "Overs": "2",
+            "Maidens": "0",
+            "Runs": "18",
+            "Wickets": "0",
+            "Ball_bowled": "12",
+            "Dot_balls": "4"
+          }
+        ],
+        "Balls": "36",
+        "Current_runrate": "7.33",
+        "Required_runrate": "10.21"
+      },
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931557,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "44",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "1,44,3",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "22",
+        "Balls": "18",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"130.5\",\"\",\"135.1\",\"132.5\",\"\",\"\",\"\",\"\""
+    },
+    {
+      "Ball": "7",
+      "Non_Striker": "11757",
+      "commentaryTimestamp": 1735547975000,
+      "Batsman": "66368",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:09:35+05:30",
+      "Runs": "1",
+      "Batsman_Short_Name": "P Nissanka",
+      "Over": "5.5",
+      "Default_Commentary": "5.5: Zakary Foulkes to Pathum Nissanka, 1 run.",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "10,12,11,10,54,10",
+      "IsFreehit": true,
+      "Bowler": "90571",
+      "Ball_Number": "35",
+      "Batsman_Details": {
+        "Batsman": "66368",
+        "Runs": "22",
+        "Balls": "18",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "On a back of a length, on off, Pathum Nissanka slaps it down to mid off for a single.",
+      "Over_No": "6",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Pathum Nissanka",
+      "Milestone": [],
+      "Non_Striker_Name": "Kusal Perera",
+      "Batsman_Runs": "1",
+      "Bowler_Conceded_Runs": "1",
+      "OID": 20043,
+      "This_Over": "0,1(1NB),1,4,0,2(1NB),1,",
+      "UID": 20043,
+      "Score": "43/1",
+      "Batsman_Style": "R",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.5",
+        "Maidens": "0",
+        "Runs": "17",
+        "Wickets": "0"
+      },
+      "Created_Timestamp": "2024-12-30T14:09:09+05:30",
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931558,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "43",
+      "Non_Striker_Short_Name": "K Perera",
+      "ZAD": "6,241,3",
+      "Non_Striker_Details": {
+        "Batsman": "11757",
+        "Runs": "6",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"130.5\",\"\",\"135.1\",\"132.5\",\"\",\"\",\"\""
+    },
+    {
+      "Ball": "6",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735547934000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:08:54+05:30",
+      "Runs": "2",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "5.5",
+      "Extras_Runs": "1",
+      "Default_Commentary": "5.5: Zakary Foulkes to Kusal Perera, No ball!",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "22,4,28,15,28,22",
+      "Bowler": "90571",
+      "Ball_Number": "35",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "6",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "No ball!",
+      "Over_No": "6",
+      "Edited_Commentary": 0,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "1",
+      "Bowler_Conceded_Runs": "2",
+      "OID": 20042,
+      "This_Over": "0,1(1NB),1,4,0,2(1NB), ",
+      "UID": 20042,
+      "Score": "42/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.4",
+        "Maidens": "0",
+        "Runs": "16",
+        "Wickets": "0"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931559,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "42",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "7,303,3",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "21",
+        "Balls": "17",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "nb",
+      "Ball_Speed_This_Over": "\"130.5\",\"\",\"135.1\",\"132.5\",\"\",\"\""
+    },
+    {
+      "Ball": "5",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735547883000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:08:03+05:30",
+      "Runs": "0",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "5.4",
+      "Default_Commentary": "5.4: Zakary Foulkes to Kusal Perera, No run.",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "22,5,30,11,32,22",
+      "Bowler": "90571",
+      "Ball_Number": "34",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "5",
+        "Balls": "6",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "No run.",
+      "Over_No": "6",
+      "Edited_Commentary": 0,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "0",
+      "Bowler_Conceded_Runs": "0",
+      "OID": 20041,
+      "This_Over": "0,1(1NB),1,4,0,",
+      "UID": 20041,
+      "Score": "40/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.4",
+        "Maidens": "0",
+        "Runs": "14",
+        "Wickets": "0"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931560,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "41",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "6,260,1",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "21",
+        "Balls": "17",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"130.5\",\"\",\"135.1\",\"132.5\",\"\""
+    },
+    {
+      "Ball": "4",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735547875000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:07:55+05:30",
+      "Runs": "4",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "5.3",
+      "Default_Commentary": "5.3: Zakary Foulkes to Kusal Perera, Four!",
+      "Ball_Speed": "132.5kph",
+      "Ball_Line_Length": "14,5,30,16,30,15",
+      "Bowler": "90571",
+      "Ball_Number": "33",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "5",
+        "Balls": "5",
+        "Fours": "1",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "FOUR! Straying down leg. Bowled full and on the leg stump, from around the wicket. Kusal Perera just has to get his bat to it to beat the man inside the ring at short fine leg as the ball races towards the deep fine leg fence for a boundary",
+      "Over_No": "6",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "4",
+      "Bowler_Conceded_Runs": "4",
+      "OID": 20040,
+      "Isboundary": true,
+      "This_Over": "0,1(1NB),1,4,",
+      "UID": 20040,
+      "Score": "40/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.3",
+        "Maidens": "0",
+        "Runs": "14",
+        "Wickets": "0"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931561,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "40",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "2,69,5",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "21",
+        "Balls": "17",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"130.5\",\"\",\"135.1\",\"132.5\""
+    },
+    {
+      "Ball": "3",
+      "Non_Striker": "11757",
+      "commentaryTimestamp": 1735547836000,
+      "Batsman": "66368",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:07:16+05:30",
+      "Runs": "1",
+      "Batsman_Short_Name": "P Nissanka",
+      "Over": "5.2",
+      "Default_Commentary": "5.2: Zakary Foulkes to Pathum Nissanka, 1 run.",
+      "Ball_Speed": "135.1kph",
+      "Ball_Line_Length": "20,4,12,17,26,17",
+      "Bowler": "90571",
+      "Ball_Number": "32",
+      "Batsman_Details": {
+        "Batsman": "66368",
+        "Runs": "21",
+        "Balls": "17",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "A yorker on middle, Pathum Nissanka digs it out towards mid off for a single.",
+      "Over_No": "6",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Pathum Nissanka",
+      "Milestone": [],
+      "Non_Striker_Name": "Kusal Perera",
+      "Batsman_Runs": "1",
+      "Bowler_Conceded_Runs": "1",
+      "OID": 20039,
+      "This_Over": "0,1(1NB),1,",
+      "UID": 20039,
+      "Score": "36/1",
+      "Batsman_Style": "R",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.2",
+        "Maidens": "0",
+        "Runs": "10",
+        "Wickets": "0"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931562,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "39",
+      "Non_Striker_Short_Name": "K Perera",
+      "ZAD": "6,240,3",
+      "Non_Striker_Details": {
+        "Batsman": "11757",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"130.5\",\"\",\"135.1\""
+    },
+    {
+      "Ball": "2",
+      "Non_Striker": "11757",
+      "commentaryTimestamp": 1735547795000,
+      "Batsman": "66368",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:06:35+05:30",
+      "Runs": "1",
+      "Batsman_Short_Name": "P Nissanka",
+      "Over": "5.2",
+      "Extras_Runs": "1",
+      "Default_Commentary": "5.2: Zakary Foulkes to Pathum Nissanka, No ball!",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "22,11,11,24,53,12",
+      "Bowler": "90571",
+      "Ball_Number": "32",
+      "Batsman_Details": {
+        "Batsman": "66368",
+        "Runs": "20",
+        "Balls": "16",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "NO BALL! Back of a length, on middle, nips in. Pathum Nissanka looks to tuck it away but inside edges it onto the thigh guard. The batters come through for a single. Foulkes has overstepped. Free Hit coming up.",
+      "Over_No": "6",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Pathum Nissanka",
+      "Milestone": [],
+      "Non_Striker_Name": "Kusal Perera",
+      "Batsman_Runs": "0",
+      "Bowler_Conceded_Runs": "1",
+      "OID": 20038,
+      "This_Over": "0,1(1NB), ",
+      "UID": 20038,
+      "Score": "35/1",
+      "Batsman_Style": "R",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.1",
+        "Maidens": "0",
+        "Runs": "9",
+        "Wickets": "0"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931563,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "38",
+      "Non_Striker_Short_Name": "K Perera",
+      "ZAD": "",
+      "Non_Striker_Details": {
+        "Batsman": "11757",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0"
+      },
+      "Detail": "nb",
+      "Ball_Speed_This_Over": "\"130.5\",\"\""
+    },
+    {
+      "Ball": "1",
+      "Non_Striker": "11757",
+      "commentaryTimestamp": 1735547751000,
+      "Batsman": "66368",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:05:51+05:30",
+      "Runs": "0",
+      "Batsman_Short_Name": "P Nissanka",
+      "Over": "5.1",
+      "Default_Commentary": "5.1: Zakary Foulkes to Pathum Nissanka, No run.",
+      "Ball_Speed": "130.5kph",
+      "Ball_Line_Length": "16,24,11,11,60,8",
+      "Bowler": "90571",
+      "Ball_Number": "31",
+      "Batsman_Details": {
+        "Batsman": "66368",
+        "Runs": "20",
+        "Balls": "15",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "Banged in short, directed towards the batter. Pathum Nissanka goes for the pull but the ball flies over him. He looks at the umpire for a wide but the umpire just signals one bouncer for the over.",
+      "Over_No": "6",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Zakary Foulkes",
+      "Bowler_Short_Name": "Z Foulkes",
+      "Batsman_Name": "Pathum Nissanka",
+      "Milestone": [],
+      "Non_Striker_Name": "Kusal Perera",
+      "Batsman_Runs": "0",
+      "Bowler_Conceded_Runs": "0",
+      "OID": 20037,
+      "This_Over": "0,",
+      "UID": 20037,
+      "Score": "34/1",
+      "Batsman_Style": "R",
+      "Bowler_Details": {
+        "Bowler": "90571",
+        "Overs": "1.1",
+        "Maidens": "0",
+        "Runs": "8",
+        "Wickets": "0"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931564,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "37",
+      "Non_Striker_Short_Name": "K Perera",
+      "ZAD": "",
+      "Non_Striker_Details": {
+        "Batsman": "11757",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"130.5\""
+    },
+    {
+      "Ball": "6",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735547689000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:04:49+05:30",
+      "Runs": "0",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "4.6",
+      "Default_Commentary": "4.6: Mitchell Santner to Kusal Perera, No run.",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "18,6,30,10,49,22",
+      "End_Over": true,
+      "Bowler": "57903",
+      "Ball_Number": "30",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "Short and into the pads, nudged off the back foot to backward square leg by Perera.",
+      "Over_No": "5",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Mitchell Santner",
+      "Bowler_Short_Name": "M Santner",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "0",
+      "Bowler_Conceded_Runs": "0",
+      "OID": 20036,
+      "This_Over": "0(W),1,1,0,0,0,",
+      "UID": 20036,
+      "Score": "34/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "57903",
+        "Overs": "1",
+        "Maidens": "0",
+        "Runs": "2",
+        "Wickets": "1"
+      },
+      "inning": "2",
+      "Summary": {
+        "Score": "34/1",
+        "Over": "5",
+        "Runs": "2",
+        "Wickets": "1",
+        "Batsmen": [
+          {
+            "Batsman": "11757",
+            "Isonstrike": true,
+            "Runs": "1",
+            "Balls": "4",
+            "Fours": "0",
+            "Sixes": "0"
+          },
+          {
+            "Batsman": "66368",
+            "Runs": "20",
+            "Balls": "14",
+            "Fours": "2",
+            "Sixes": "1"
+          }
+        ],
+        "Bowlers": [
+          {
+            "Bowler": "57903",
+            "Overs": "1",
+            "Maidens": "0",
+            "Runs": "2",
+            "Wickets": "1",
+            "Ball_bowled": "6",
+            "Dot_balls": "4"
+          }
+        ],
+        "Balls": "30",
+        "Current_runrate": "6.80",
+        "Required_runrate": "10.20"
+      },
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931565,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "36",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "1,14,3",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "20",
+        "Balls": "14",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"88.8\",\"\",\"84.5\",\"\",\"\",\"\""
+    },
+    {
+      "Ball": "4",
+      "Non_Striker": "66368",
+      "commentaryTimestamp": 1735547669000,
+      "Batsman": "11757",
+      "language": "eng",
+      "Timestamp": "2024-12-30T14:04:29+05:30",
+      "Runs": "0",
+      "Batsman_Short_Name": "K Perera",
+      "Over": "4.4",
+      "Default_Commentary": "4.4: Mitchell Santner to Kusal Perera, No run.",
+      "Ball_Speed": "",
+      "Ball_Line_Length": "22,8,29,9,42,24",
+      "Bowler": "57903",
+      "Ball_Number": "28",
+      "Batsman_Details": {
+        "Batsman": "11757",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0"
+      },
+      "Isball": true,
+      "matchId": "248570",
+      "Commentary": "It's all happening! Pushed through by Santner, on off, on a nagging length, Kusal Perera closes the bat face early and gets a leading edge that balloons in front of Jacob Duffy at backward point. He dives but the ball drops short of him. The ball rolls in front off his body and Pathum Nissanka wants to sneak in a single. Perera is caught ball-watching as Nissanka is halfway through the run. Duffy lobs the throw towards the batting end and the keeper Mitchell Hay has to run across to his left to collect the throw. Hay picks the ball up, turns around and fires in a throw at the bowling end but Nissanka is in by then. A decent throw at either end would have done the job for New Zealand.",
+      "Over_No": "5",
+      "Edited_Commentary": 1,
+      "Bowler_Name": "Mitchell Santner",
+      "Bowler_Short_Name": "M Santner",
+      "Batsman_Name": "Kusal Perera",
+      "Milestone": [],
+      "Non_Striker_Name": "Pathum Nissanka",
+      "Batsman_Runs": "0",
+      "Bowler_Conceded_Runs": "0",
+      "OID": 20034,
+      "This_Over": "0(W),1,1,0,",
+      "UID": 20034,
+      "Score": "34/1",
+      "Batsman_Style": "L",
+      "Bowler_Details": {
+        "Bowler": "57903",
+        "Overs": "0.4",
+        "Maidens": "0",
+        "Runs": "2",
+        "Wickets": "1"
+      },
+      "inning": "2",
+      "_id": {
+        "timestamp": 1735548110,
+        "machineIdentifier": 3679210,
+        "processIdentifier": 15067,
+        "counter": 7931567,
+        "time": 1735548110000,
+        "date": "2024-12-30T08:41:50.000+0000",
+        "timeSecond": 1735548110
+      },
+      "Id": "34",
+      "Non_Striker_Short_Name": "P Nissanka",
+      "ZAD": "3,123,3",
+      "Non_Striker_Details": {
+        "Batsman": "66368",
+        "Runs": "20",
+        "Balls": "14",
+        "Fours": "2",
+        "Sixes": "1"
+      },
+      "Detail": "",
+      "Ball_Speed_This_Over": "\"88.8\",\"\",\"84.5\",\"\""
+    }
+  ],
+  "timestamp": "2024-12-30T14:11:50"
+}

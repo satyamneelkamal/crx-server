@@ -1,0 +1,209 @@
+{
+  "id": 393,
+  "groundName": "Bay Oval",
+  "city": "Mount Maunganui",
+  "country": "New Zealand",
+  "groundDetails": [
+    {
+      "heading": "Dimensions",
+      "content": "Average sized boundaries fairly even on both sides"
+    }
+  ],
+  "pitchDetails": [
+    {
+      "heading": "Pretty good for batting",
+      "content": "Usually high scoring ground in T20Is but do check this space for actual pitch reading after toss"
+    }
+  ],
+  "pitchExploiters": [],
+  "happyHunters": [],
+  "recentMatches": {
+    "cardType": "matchesListCard",
+    "label": "Recent History: Scores",
+    "headers": [
+      "Match",
+      "1st Innings",
+      "2nd Innings"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "NZ vs SL",
+          "172-8",
+          "164-8"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "81580",
+          "NK vs AKL",
+          "121-10",
+          "127-2"
+        ],
+        "followUpLinkText": "nk-vs-akl-21st-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "81524",
+          "WEL vs NK",
+          "177-8",
+          "154-8"
+        ],
+        "followUpLinkText": "wel-vs-nk-11th-match-super-smash-2023-24"
+      },
+      {
+        "values": [
+          "78033",
+          "BAN vs NZ",
+          "110-10",
+          "95-5"
+        ],
+        "followUpLinkText": "ban-vs-nz-3rd-t20i-bangladesh-tour-of-new-zealand-2023"
+      },
+      {
+        "values": [
+          "78026",
+          "NZ vs BAN",
+          "72-2",
+          "-"
+        ],
+        "followUpLinkText": "nz-vs-ban-2nd-t20i-bangladesh-tour-of-new-zealand-2023"
+      },
+      {
+        "values": [
+          "56612",
+          "NK vs AKL",
+          "172-5",
+          "135-10"
+        ],
+        "followUpLinkText": "nk-vs-akl-21st-match-super-smash-2022-23"
+      },
+      {
+        "values": [
+          "53007",
+          "NK vs CNTBRY",
+          "96-5",
+          "98-1"
+        ],
+        "followUpLinkText": "nk-vs-cntbry-1st-match-super-smash-2022-23"
+      },
+      {
+        "values": [
+          "49495",
+          "IND vs NZ",
+          "191-6",
+          "126-10"
+        ],
+        "followUpLinkText": "ind-vs-nz-2nd-t20i-india-tour-of-new-zealand-2022"
+      },
+      {
+        "values": [
+          "39748",
+          "NK vs CD",
+          "176-7",
+          "157-8"
+        ],
+        "followUpLinkText": "nk-vs-cd-22nd-match-super-smash-2021-22"
+      },
+      {
+        "values": [
+          "39713",
+          "CNTBRY vs NK",
+          "107-10",
+          "108-9"
+        ],
+        "followUpLinkText": "cntbry-vs-nk-11th-match-super-smash-2021-22"
+      }
+    ]
+  },
+  "averageScores": {
+    "cardType": "averageScoreCard",
+    "heading": "Average Scores",
+    "label": "18 Matches",
+    "values": [
+      {
+        "heading": "First Innings",
+        "content": "153"
+      },
+      {
+        "heading": "Second Innings",
+        "content": "135"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "cardType": "statsCard",
+      "cardHeading": "Pace vs Spin at Mount Maunganui in T20Is (since 2020)",
+      "cardLabel": "NZ v SL, 2nd T20I, 2024",
+      "subCard": [
+        {
+          "subCardHeading": "Pacers",
+          "stats": [
+            {
+              "label": "Mat",
+              "value": "7"
+            },
+            {
+              "label": "Overs",
+              "value": "127.2"
+            },
+            {
+              "label": "Wkts",
+              "value": "46"
+            },
+            {
+              "label": "Avg",
+              "value": "23.04"
+            },
+            {
+              "label": "SR",
+              "value": "16.6"
+            },
+            {
+              "label": "ER",
+              "value": "8.32"
+            }
+          ]
+        },
+        {
+          "subCardHeading": "Spinners",
+          "stats": [
+            {
+              "label": "Mat",
+              "value": "7"
+            },
+            {
+              "label": "Overs",
+              "value": "78.5"
+            },
+            {
+              "label": "Wkts",
+              "value": "23"
+            },
+            {
+              "label": "Avg",
+              "value": "26.08"
+            },
+            {
+              "label": "SR",
+              "value": "20.5"
+            },
+            {
+              "label": "ER",
+              "value": "7.61"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "disclaimer": [
+    "Cricbuzz doesn't guarantee the participant of winning rewards/prizes based on any information mentioned in Fantasy Handbook. Information provided is purely based on expert insights and data, and is independent of the upcoming player performances.",
+    "Cricbuzz bears no responsibility towards points/rewards/prizes the participant may win while playing Fantasy Cricket or any other such game.",
+    "Content mentioned in the Fantasy Handbook are subject to change based on factors like change in weather, injury, etc.",
+    "The contents of this page is updated until the start of the match."
+  ]
+}

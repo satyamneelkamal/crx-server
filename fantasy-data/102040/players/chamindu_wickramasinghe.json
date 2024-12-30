@@ -1,0 +1,283 @@
+{
+  "id": 15116,
+  "fullName": "Chamindu Wickramasinghe",
+  "country": "Sri Lanka",
+  "role": "Batting Allrounder",
+  "faceImageId": 174146,
+  "batting": {
+    "batStyle": "Left-hand bat"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm medium"
+  },
+  "badges": [],
+  "careerStats": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "runs": "8",
+      "average": "0.0",
+      "strikeRate": "160.0",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "4"
+    },
+    "bowling": {
+      "innings": "2 Innings",
+      "wickets": "1",
+      "average": "44.0",
+      "economy": "7.33",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "1-17"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "110289",
+          "11(12)",
+          "91.67",
+          "1",
+          "0",
+          "HBT"
+        ],
+        "followUpLinkText": "hbt-vs-gam-qualifier-2-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110281",
+          "9*(4)",
+          "225.00",
+          "0",
+          "1",
+          "KDB"
+        ],
+        "followUpLinkText": "gam-vs-kdb-eliminator-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110273",
+          "2(3)",
+          "66.67",
+          "0",
+          "0",
+          "HBT"
+        ],
+        "followUpLinkText": "gam-vs-hbt-21st-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110237",
+          "9*(3)",
+          "300.00",
+          "2",
+          "0",
+          "CLJR"
+        ],
+        "followUpLinkText": "cljr-vs-gam-14th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110213",
+          "8(3)",
+          "266.67",
+          "2",
+          "0",
+          "JFT"
+        ],
+        "followUpLinkText": "gam-vs-jft-11th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110189",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "NEK"
+        ],
+        "followUpLinkText": "nek-vs-gam-7th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110169",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "KDB"
+        ],
+        "followUpLinkText": "kdb-vs-gam-3rd-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "108251",
+          "4*(3)",
+          "133.33",
+          "1",
+          "0",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-1st-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "101545",
+          "4*(2)",
+          "200.00",
+          "0",
+          "0",
+          "IND"
+        ],
+        "followUpLinkText": "sl-vs-ind-3rd-t20i-india-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "93099",
+          "26(29)",
+          "89.66",
+          "1",
+          "1",
+          "CLS"
+        ],
+        "followUpLinkText": "das-vs-cls-20th-match-lanka-premier-league-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "110281",
+          "1",
+          "1",
+          "16",
+          "16.00",
+          "KDB"
+        ],
+        "followUpLinkText": "gam-vs-kdb-eliminator-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110273",
+          "0",
+          "0",
+          "5",
+          "25.00",
+          "HBT"
+        ],
+        "followUpLinkText": "gam-vs-hbt-21st-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110213",
+          "1",
+          "1",
+          "11",
+          "8.46",
+          "JFT"
+        ],
+        "followUpLinkText": "gam-vs-jft-11th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "108251",
+          "2",
+          "0",
+          "27",
+          "13.50",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-1st-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "101545",
+          "4",
+          "1",
+          "17",
+          "4.25",
+          "IND"
+        ],
+        "followUpLinkText": "sl-vs-ind-3rd-t20i-india-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "93099",
+          "4",
+          "2",
+          "13",
+          "3.25",
+          "CLS"
+        ],
+        "followUpLinkText": "das-vs-cls-20th-match-lanka-premier-league-2024"
+      },
+      {
+        "values": [
+          "93083",
+          "2",
+          "0",
+          "44",
+          "22.00",
+          "KFS"
+        ],
+        "followUpLinkText": "kfs-vs-das-18th-match-lanka-premier-league-2024"
+      },
+      {
+        "values": [
+          "93072",
+          "1",
+          "1",
+          "9",
+          "9.00",
+          "GAM"
+        ],
+        "followUpLinkText": "das-vs-gam-16th-match-lanka-premier-league-2024"
+      },
+      {
+        "values": [
+          "93045",
+          "0",
+          "2",
+          "1",
+          "2.50",
+          "GAM"
+        ],
+        "followUpLinkText": "das-vs-gam-12th-match-lanka-premier-league-2024"
+      },
+      {
+        "values": [
+          "93029",
+          "2",
+          "0",
+          "19",
+          "9.50",
+          "CLS"
+        ],
+        "followUpLinkText": "cls-vs-das-10th-match-lanka-premier-league-2024"
+      }
+    ]
+  }
+}

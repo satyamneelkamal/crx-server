@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Score</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <style>
+        body { 
+            padding: 10px; 
+            font-family: Arial; 
+            background: #1a1f3c; 
+            color: white;
+            max-width: 100%;
+            margin: 0 auto;
+        }
+        @media (min-width: 768px) {
+            body {
+                padding: 20px;
+                max-width: 800px;
+            }
+        }
+        .form-group { 
+            margin-bottom: 15px; 
+            background: #2a2f4c;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid rgba(59, 130, 246, 0.2);
+        }
+        label { 
+            display: block; 
+            margin-bottom: 10px;
+            color: #93c5fd;
+            font-weight: 500;
+            font-size: 16px;
+        }
+        input { 
+            width: 100%;
+            padding: 12px;
+            background: #1a1f3c;
+            border: 1px solid #3b82f6;
+            color: white;
+            border-radius: 8px;
+            font-size: 16px;
+            box-sizing: border-box;
+            -webkit-appearance: none;
+            appearance: none;
+        }
+        button { 
+            padding: 12px 20px;
+            background: #3b82f6;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: background-color 0.2s;
+            margin: 5px;
+            min-width: 120px;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
+        }
+        .section-header {
+            background: #2a2f4c;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid rgba(59, 130, 246, 0.2);
+            min-height: 44px;
+        }
+        .section-header h3 {
+            margin: 0;
+            color: #93c5fd;
+            font-size: 16px;
+        }
+        .section-content {
+            display: none;
+            padding: 15px;
+            background: #2a2f4c;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border: 1px solid rgba(59, 130, 246, 0.2);
+        }
+        .section-content.active {
+            display: block;
+        }
+        .button-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 10px;
+            width: 100%;
+        }
+        @media (max-width: 480px) {
+            .button-group {
+                grid-template-columns: 1fr;
+            }
+            button {
+                width: 100%;
+                margin: 0;
+            }
+        }
+        .weather-info {
+            margin-top: 10px;
+            padding: 15px;
+            border-radius: 8px;
+            background: rgba(59, 130, 246, 0.1);
+            font-size: 16px;
+        }
+        .weather-info:empty {
+            display: none;
+        }
+        .arrow {
+            border: solid #93c5fd;
+            border-width: 0 2px 2px 0;
+            display: inline-block;
+            padding: 4px;
+            transform: rotate(45deg);
+            transition: transform 0.3s;
+        }
+        .section-header.active .arrow {
+            transform: rotate(-135deg);
+        }
+        #matchInfoStatus {
+            margin-top: 10px;
+            padding: 12px;
+            border-radius: 8px;
+            background: rgba(59, 130, 246, 0.1);
+            font-size: 16px;
+        }
+        /* Add touch-friendly tap targets */
+        .section-header, button, input {
+            min-height: 44px;
+        }
+    </style>
+</head>
+<body>
+    <div class="section-header" onclick="toggleSection('scoreSection')">
+        <h3>Score Information</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="scoreSection" class="section-content">
+        <div class="form-group">
+            <label>Score:</label>
+            <input type="text" id="score" value="140-9">
+        </div>
+        <div class="form-group">
+            <label>Overs:</label>
+            <input type="text" id="overs" value="31.5">
+        </div>
+        <div class="button-group">
+            <button onclick="updateScore()">Update Score</button>
+        </div>
+    </div>
+
+    <div class="section-header" onclick="toggleSection('weatherSection')">
+        <h3>Weather Configuration</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="weatherSection" class="section-content">
+        <div class="form-group">
+            <label>City Name:</label>
+            <input type="text" id="cityName" placeholder="Enter city name">
+            <div id="weatherInfo" class="weather-info"></div>
+        </div>
+        <div class="button-group">
+            <button onclick="updateWeatherConfig()">Update Weather Config</button>
+            <button onclick="testWeatherAPI()" style="background: #10b981;">Test Weather API</button>
+        </div>
+    </div>
+
+    <div class="section-header" onclick="toggleSection('matchInfoSection')">
+        <h3>Match Information</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="matchInfoSection" class="section-content">
+        <div class="button-group">
+            <button id="basicInfoBtn" onclick="toggleMatchInfo('basicInfo', 'basicInfoBtn')" data-visible="false">
+                Show Basic Info
+            </button>
+            <button id="teamFormBtn" onclick="toggleMatchInfo('teamForm', 'teamFormBtn')" data-visible="false">
+                Show Team Form
+            </button>
+            <button id="headToHeadBtn" onclick="toggleMatchInfo('headToHead', 'headToHeadBtn')" data-visible="false">
+                Show Head to Head
+            </button>
+            <button id="venueStatsBtn" onclick="toggleMatchInfo('venueStats', 'venueStatsBtn')" data-visible="false">
+                Show Venue Stats
+            </button>
+            <button id="teamComparisonBtn" onclick="toggleMatchInfo('teamComparison', 'teamComparisonBtn')" data-visible="false">
+                Show Team Comparison
+            </button>
+            <button id="playingXIBtn" onclick="toggleMatchInfo('playingXI', 'playingXIBtn', this.getAttribute('data-team'))" data-visible="false">
+                Show Playing XI
+            </button>
+            <button id="playingXIIndBtn" onclick="toggleMatchInfo('playingXI', 'playingXIIndBtn', this.getAttribute('data-team'))" data-visible="false">
+                Show Playing XI
+            </button>
+        </div>
+        <div id="matchInfoStatus"></div>
+    </div>
+
+    <div class="section-header" onclick="toggleSection('innings1Section')">
+        <h3>Innings 1 Information</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="innings1Section" class="section-content">
+        <div class="button-group">
+            <button id="innings1BattingBtn" onclick="toggleScorecardInfo('batting', 1, 'innings1BattingBtn')" data-visible="false">
+                Show Batting
+            </button>
+            <button id="innings1BowlingBtn" onclick="toggleScorecardInfo('bowling', 1, 'innings1BowlingBtn')" data-visible="false">
+                Show Bowling
+            </button>
+            <button id="innings1DetailsBtn" onclick="toggleScorecardInfo('details', 1, 'innings1DetailsBtn')" data-visible="false">
+                Show Part+FOW
+            </button>
+        </div>
+    </div>
+
+    <div class="section-header" onclick="toggleSection('innings2Section')">
+        <h3>Innings 2 Information</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="innings2Section" class="section-content">
+        <div class="button-group">
+            <button id="innings2BattingBtn" onclick="toggleScorecardInfo('batting', 2, 'innings2BattingBtn')" data-visible="false">
+                Show Batting
+            </button>
+            <button id="innings2BowlingBtn" onclick="toggleScorecardInfo('bowling', 2, 'innings2BowlingBtn')" data-visible="false">
+                Show Bowling
+            </button>
+            <button id="innings2DetailsBtn" onclick="toggleScorecardInfo('details', 2, 'innings2DetailsBtn')" data-visible="false">
+                Show Part+FOW
+            </button>
+        </div>
+    </div>
+
+    <div class="section-header" onclick="toggleSection('innings3Section')">
+        <h3>Innings 3 Information</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="innings3Section" class="section-content">
+        <div class="button-group">
+            <button id="innings3BattingBtn" onclick="toggleScorecardInfo('batting', 3, 'innings3BattingBtn')" data-visible="false">
+                Show Batting
+            </button>
+            <button id="innings3BowlingBtn" onclick="toggleScorecardInfo('bowling', 3, 'innings3BowlingBtn')" data-visible="false">
+                Show Bowling
+            </button>
+            <button id="innings3DetailsBtn" onclick="toggleScorecardInfo('details', 3, 'innings3DetailsBtn')" data-visible="false">
+                Show Part+FOW
+            </button>
+        </div>
+    </div>
+
+    <div class="section-header" onclick="toggleSection('innings4Section')">
+        <h3>Innings 4 Information</h3>
+        <span class="arrow"></span>
+    </div>
+    <div id="innings4Section" class="section-content">
+        <div class="button-group">
+            <button id="innings4BattingBtn" onclick="toggleScorecardInfo('batting', 4, 'innings4BattingBtn')" data-visible="false">
+                Show Batting
+            </button>
+            <button id="innings4BowlingBtn" onclick="toggleScorecardInfo('bowling', 4, 'innings4BowlingBtn')" data-visible="false">
+                Show Bowling
+            </button>
+            <button id="innings4DetailsBtn" onclick="toggleScorecardInfo('details', 4, 'innings4DetailsBtn')" data-visible="false">
+                Show Part+FOW
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const SERVER_IP = '192.168.1.11'; // Change this to your server's IP address
+        const SERVER_PORT = '5000';        // Change this if you use a different port
+
+        // Update the server URL construction with fallback
+        function getServerUrl() {
+            // Get the current URL's hostname
+            const currentUrl = window.location.href;
+            const url = new URL(currentUrl);
+            
+            // If hostname is empty (file opened directly) or localhost, use the server IP
+            if (!url.hostname || url.hostname === 'localhost' || url.hostname === '') {
+                return `https://${SERVER_IP}:${SERVER_PORT}`;
+            }
+            
+            return `https://${url.hostname}:${SERVER_PORT}`;
+        }
+        
+        const serverUrl = getServerUrl();
+        console.log('Using server URL:', serverUrl);
+
+        // Add this new function for section toggling
+        function toggleSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            const header = section.previousElementSibling;
+            const isActive = section.classList.contains('active');
+            
+            // Close all sections first
+            document.querySelectorAll('.section-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            document.querySelectorAll('.section-header').forEach(header => {
+                header.classList.remove('active');
+            });
+            
+            // Toggle the clicked section
+            if (!isActive) {
+                section.classList.add('active');
+                header.classList.add('active');
+            }
+        }
+
+        async function updateScore() {
+            const config = {
+                score: document.getElementById('score').value,
+                overs: document.getElementById('overs').value
+            };
+
+            try {
+                console.log('Sending request to:', `${serverUrl}/update-right-team`);
+                const response = await fetch(`${serverUrl}/update-right-team`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(config)
+                });
+
+                if (response.ok) {
+                    alert('Score Updated!');
+                } else {
+                    const errorText = await response.text();
+                    alert(`Failed to update score: ${errorText}`);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert(`Error updating score: ${error.message}`);
+            }
+        }
+
+        async function updateWeatherConfig() {
+            const cityName = document.getElementById('cityName').value;
+
+            if (!cityName) {
+                alert('Please enter a city name');
+                return;
+            }
+
+            const config = {
+                city: cityName
+            };
+
+            try {
+                console.log('Sending weather config to:', `${serverUrl}/update-weather-config`);
+                const response = await fetch(`${serverUrl}/update-weather-config`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(config)
+                });
+
+                if (response.ok) {
+                    await testWeatherAPI();
+                    alert('Weather configuration updated!');
+                } else {
+                    const errorText = await response.text();
+                    alert(`Failed to update weather configuration: ${errorText}`);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert(`Error updating weather configuration: ${error.message}`);
+            }
+        }
+
+        async function testWeatherAPI() {
+            const cityName = document.getElementById('cityName').value;
+            const weatherInfo = document.getElementById('weatherInfo');
+            
+            if (!cityName) {
+                weatherInfo.innerHTML = 'Please enter a city name first';
+                return;
+            }
+
+            try {
+                console.log('Testing weather API:', `${serverUrl}/test-weather?city=${encodeURIComponent(cityName)}`);
+                const response = await fetch(`${serverUrl}/test-weather?city=${encodeURIComponent(cityName)}`);
+                const data = await response.json();
+                
+                if (response.ok) {
+                    weatherInfo.innerHTML = `
+                        <div style="background: rgba(59, 130, 246, 0.1); padding: 10px; border-radius: 4px;">
+                            <div>Temperature: ${data.main.temp}°C</div>
+                            <div>Feels like: ${data.main.feels_like}°C</div>
+                            <div>Humidity: ${data.main.humidity}%</div>
+                            <div>Weather: ${data.weather[0].description}</div>
+                            <div>Wind: ${data.wind.speed} m/s</div>
+                        </div>
+                    `;
+                } else {
+                    weatherInfo.innerHTML = `Error: ${data.message}`;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                weatherInfo.innerHTML = `Error testing weather API: ${error.message}`;
+            }
+        }
+
+        async function loadCurrentValues() {
+            try {
+                console.log('Loading current values from:', serverUrl);
+                const [scoreResponse, weatherResponse] = await Promise.all([
+                    fetch(`${serverUrl}/get-right-team`),
+                    fetch(`${serverUrl}/get-weather-config`)
+                ]);
+                
+                if (!scoreResponse.ok || !weatherResponse.ok) {
+                    throw new Error('Failed to load configurations');
+                }
+                
+                const scoreConfig = await scoreResponse.json();
+                const weatherConfig = await weatherResponse.json();
+                
+                document.getElementById('score').value = scoreConfig.score || '';
+                document.getElementById('overs').value = scoreConfig.overs || '';
+                document.getElementById('cityName').value = weatherConfig.city || '';
+            } catch (error) {
+                console.error('Error loading configurations:', error);
+                alert(`Error loading configurations: ${error.message}`);
+            }
+        }
+
+        let weatherRefreshInterval;
+
+        function startWeatherRefresh() {
+            if (weatherRefreshInterval) {
+                clearInterval(weatherRefreshInterval);
+            }
+
+            weatherRefreshInterval = setInterval(testWeatherAPI, 300000);
+        }
+
+        window.onload = async () => {
+            await loadCurrentValues();
+            startWeatherRefresh();
+        };
+
+        window.onunload = () => {
+            if (weatherRefreshInterval) {
+                clearInterval(weatherRefreshInterval);
+            }
+        };
+
+        let isBasicInfoVisible = false;
+        let currentMatchData = null;
+
+        // Add function to update button states
+        function updateButtonStates() {
+            // Update Playing XI buttons
+            if (currentMatchData?.playingXI?.teams) {
+                const teams = Object.keys(currentMatchData.playingXI.teams);
+                console.log('Available teams for Playing XI:', teams);
+                
+                if (teams.length >= 2) {
+                    const btn1 = document.getElementById('playingXIBtn');
+                    const btn2 = document.getElementById('playingXIIndBtn');
+                    
+                    btn1.textContent = `Show ${teams[0]} Playing XI`;
+                    btn1.setAttribute('data-team', teams[0]);
+                    btn1.style.display = 'block';
+                    
+                    btn2.textContent = `Show ${teams[1]} Playing XI`;
+                    btn2.setAttribute('data-team', teams[1]);
+                    btn2.style.display = 'block';
+                    
+                    console.log('Updated Playing XI buttons with teams:', {
+                        team1: teams[0],
+                        team2: teams[1]
+                    });
+                }
+            } else {
+                console.log('No Playing XI data available:', currentMatchData?.playingXI);
+            }
+            
+            document.getElementById('matchInfoStatus').innerHTML = 'Match data loaded successfully';
+        }
+
+        // Add this new function to update innings headers
+        function updateInningsHeaders() {
+            if (!currentMatchData?.innings?.length) {
+                console.log('No innings data available for headers');
+                return;
+            }
+            
+            for (let i = 0; i < currentMatchData.innings.length; i++) {
+                const inningsData = currentMatchData.innings[i];
+                if (!inningsData) continue;
+
+                const headerElement = document.querySelector(`#innings${i + 1}Section`)?.previousElementSibling?.querySelector('h3');
+                if (!headerElement) {
+                    console.warn(`Could not find header element for innings ${i + 1}`);
+                    continue;
+                }
+
+                try {
+                    const teamName = inningsData.teamName?.split(' (')[0] || 'Unknown Team';
+                    const score = inningsData.summary?.score != null && inningsData.summary?.wickets != null
+                        ? `${inningsData.summary.score}-${inningsData.summary.wickets}`
+                        : 'No score';
+                    
+                    headerElement.textContent = `${teamName} ${score}`;
+                } catch (error) {
+                    console.warn(`Error updating header for innings ${i + 1}:`, error);
+                    headerElement.textContent = `Innings ${i + 1}`;
+                }
+            }
+        }
+
+        // Modify loadMatchData to handle immediate updates
+        async function loadMatchData() {
+            try {
+                console.log('🔄 Loading match data...');
+                
+                // Load both match info and Sofascore data in parallel
+                const [matchResponse, sofascoreResponse] = await Promise.all([
+                    fetch('https://192.168.1.11:5000/get-match-info'),
+                    fetch('https://192.168.1.11:5000/get-sofascore-data')
+                ]);
+
+                const [matchData, sofascoreData] = await Promise.all([
+                    matchResponse.json(),
+                    sofascoreResponse.json()
+                ]);
+
+                console.log('📥 Loaded match data:', matchData);
+                console.log('📥 Loaded Sofascore data:', sofascoreData);
+
+                // Update current match data
+                currentMatchData = matchData;
+
+                // Update innings data if Sofascore data is available
+                if (Array.isArray(sofascoreData)) {
+                    currentMatchData.innings = [...sofascoreData, null, null, null].slice(0, 4);
+                    console.log('📊 Updated innings data:', currentMatchData.innings);
+                }
+
+                // Update UI elements
+                updateButtonStates();
+                updateInningsHeaders();
+                updateInningsButtonStates();
+
+            } catch (error) {
+                console.error('❌ Error loading data:', error);
+                document.getElementById('matchInfoStatus').innerHTML = 'Error loading match data';
+            }
+        }
+
+        // Remove the duplicate WebSocket implementations and replace with this single version
+        let ws = null;
+        let wsReconnectAttempts = 0;
+        const MAX_RECONNECT_ATTEMPTS = 5;
+        const RECONNECT_DELAY = 2000;
+
+        function connectWebSocket() {
+            if (ws) {
+                console.log('Closing existing WebSocket connection');
+                ws.close();
+            }
+
+            ws = new WebSocket('wss://192.168.1.11:5000');
+            
+            ws.onmessage = async (event) => {
+                try {
+                    const update = JSON.parse(event.data);
+                    console.log('📡 Received WebSocket update:', update);
+                    
+                    if (update.type === 'sofascoreUpdate') {
+                        console.log('🔄 Reloading data due to Sofascore update');
+                        await loadMatchData();
+                        console.log('✅ Data reload complete');
+                    }
+                } catch (error) {
+                    console.error('Error handling WebSocket message:', error);
+                }
+            };
+
+            ws.onopen = () => {
+                console.log('📡 WebSocket connected');
+                wsReconnectAttempts = 0;
+            };
+
+            ws.onerror = (error) => {
+                console.error('WebSocket error:', error);
+            };
+
+            ws.onclose = () => {
+                console.log('WebSocket disconnected');
+                if (wsReconnectAttempts < MAX_RECONNECT_ATTEMPTS) {
+                    wsReconnectAttempts++;
+                    console.log(`Reconnecting (attempt ${wsReconnectAttempts})...`);
+                    setTimeout(connectWebSocket, RECONNECT_DELAY);
+                } else {
+                    console.error('Max reconnection attempts reached');
+                    // Reload page as last resort
+                    setTimeout(() => {
+                        location.reload();
+                    }, 5000);
+                }
+            };
+        }
+
+        // Initialize WebSocket connection
+        connectWebSocket();
+
+        // Add automatic refresh every 30 seconds as backup
+        setInterval(loadMatchData, 30000);
+
+        // Initial load
+        loadMatchData();
+
+        // Separate the innings button state update logic
+        function updateInningsButtonStates() {
+            for (let i = 1; i <= 4; i++) {
+                const inningsData = currentMatchData?.innings?.[i - 1];
+                const inningsTitle = Array.from(document.querySelectorAll('.section-header'))
+                    .find(header => header.querySelector('h3')?.textContent?.includes(`Innings ${i}`));
+                const inningsSection = inningsTitle?.nextElementSibling;
+                
+                if (!inningsData || (!inningsData.batting && !inningsData.bowling && !inningsData.details)) {
+                    if (inningsSection) inningsSection.style.display = 'none';
+                    if (inningsTitle) inningsTitle.style.display = 'none';
+                } else {
+                    if (inningsSection) inningsSection.style.display = 'block';
+                    if (inningsTitle) inningsTitle.style.display = 'block';
+                }
+            }
+        }
+
+        // Replace the activeButtons object with a single active button tracker
+        let activeButton = null;
+
+        async function deactivateButton(btnId) {
+            const btn = document.getElementById(btnId);
+            if (!btn) return;
+            
+            btn.setAttribute('data-visible', 'false');
+            btn.style.background = '#3b82f6';
+            
+            // Reset button text - remove "Shown" and add "Show" prefix
+            const baseText = btn.textContent.replace(' Shown', '').replace('Show ', '');
+            btn.textContent = `Show ${baseText}`;
+            
+            // Determine the type and send deactivation request
+            const isInningsButton = btn.id.includes('innings');
+            const endpoint = isInningsButton ? 'toggle-scorecard-info' : 'toggle-match-info';
+            
+            try {
+                await fetch(`https://192.168.1.11:5000/${endpoint}`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        type: getButtonType(btn),
+                        inningsNumber: isInningsButton ? parseInt(btn.id.match(/innings(\d)/)[1]) : undefined,
+                        show: false,
+                        data: null
+                    })
+                });
+            } catch (error) {
+                console.error('Error deactivating button:', error);
+            }
+        }
+
+        function getButtonType(btn) {
+            if (btn.id.includes('innings')) {
+                if (btn.id.includes('Batting')) return 'batting';
+                if (btn.id.includes('Bowling')) return 'bowling';
+                if (btn.id.includes('Details')) return 'details';
+                return 'unknown';
+            }
+            
+            const typeMap = {
+                'venueStatsBtn': 'venueStats',
+                'teamComparisonBtn': 'teamComparison',
+                'headToHeadBtn': 'headToHead',
+                'teamFormBtn': 'teamForm',
+                'basicInfoBtn': 'basicInfo',
+                'playingXIBtn': 'playingXI',
+                'playingXIIndBtn': 'playingXI'
+            };
+            
+            return typeMap[btn.id] || btn.id.replace('Btn', '');
+        }
+
+        async function toggleButton(btnId, options = {}) {
+            const btn = document.getElementById(btnId);
+            if (!btn) return;
+            
+            let isVisible = btn.getAttribute('data-visible') === 'true';
+            isVisible = !isVisible;
+            
+            try {
+                // Deactivate any active button if we're activating a new one
+                if (activeButton && activeButton !== btnId && isVisible) {
+                    await deactivateButton(activeButton);
+                }
+
+                const isInningsButton = btn.id.includes('innings');
+                const endpoint = isInningsButton ? 'toggle-scorecard-info' : 'toggle-match-info';
+                
+                await fetch(`https://192.168.1.11:5000/${endpoint}`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        type: getButtonType(btn),
+                        inningsNumber: isInningsButton ? parseInt(btn.id.match(/innings(\d)/)[1]) : undefined,
+                        show: isVisible,
+                        data: options.data || null
+                    })
+                });
+
+                // Update button appearance
+                btn.setAttribute('data-visible', isVisible);
+                const baseText = options.team || btn.textContent.replace(' Shown', '').replace('Show ', '');
+                
+                if (isVisible) {
+                    btn.style.background = '#10b981';
+                    btn.textContent = `${baseText} Shown`;
+                    activeButton = btnId;
+                } else {
+                    btn.style.background = '#3b82f6';
+                    btn.textContent = `Show ${baseText}`;
+                    activeButton = null;
+                }
+            } catch (error) {
+                console.error(`Error toggling button ${btnId}:`, error);
+            }
+        }
+
+        // Replace the existing toggle functions with these simplified versions
+        async function toggleMatchInfo(type, btnId, team) {
+            const data = type === 'playingXI' ? 
+                (team ? { teams: { [team]: currentMatchData?.playingXI?.teams?.[team] } } : null) :
+                type === 'venueStats' ? 
+                    { ...currentMatchData?.venueStats, weatherInfo: currentMatchData?.weatherInfo } :
+                type === 'teamComparison' ?
+                    currentMatchData?.teamComparison :
+                type === 'headToHead' ? 
+                    currentMatchData?.headToHead :
+                type === 'basicInfo' ?
+                    { ...currentMatchData?.basicInfo, umpires: currentMatchData?.umpires } :
+                currentMatchData?.[type] || null;
+
+            await toggleButton(btnId, { data, team });
+        }
+
+        async function toggleScorecardInfo(type, inningsNumber, btnId) {
+            const inningsData = currentMatchData?.innings?.[inningsNumber - 1];
+            if (!inningsData) {
+                console.error(`No data available for innings ${inningsNumber}`);
+                return;
+            }
+
+            const data = type === 'batting' ? {
+                teamName: inningsData.teamName,
+                summary: inningsData.summary,
+                batting: inningsData.batting
+            } : type === 'bowling' ? {
+                teamName: inningsData.teamName,
+                bowling: inningsData.bowling
+            } : {
+                teamName: inningsData.teamName,
+                partnerships: inningsData.partnerships,
+                fallOfWickets: inningsData.fallOfWickets
+            };
+
+            await toggleButton(btnId, { data });
+        }
+    </script>
+</body>
+</html> 

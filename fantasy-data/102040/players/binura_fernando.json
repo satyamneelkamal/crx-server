@@ -1,0 +1,192 @@
+{
+  "id": 9498,
+  "fullName": "Binura Fernando",
+  "country": "Sri Lanka",
+  "role": "Bowler",
+  "faceImageId": 155064,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Anchor",
+    "battingPosition": "Tailender"
+  },
+  "bowling": {
+    "bowlStyle": "Left-arm medium",
+    "bowlingRole": "Powerplay and Death Overs Bowler",
+    "bowlingVariations": [
+      "Back of length",
+      "Scrambled Seam"
+    ],
+    "stockDelivery": "Seam-up"
+  },
+  "keyInfo": [
+    "Brings the left-arm variation into play",
+    "Can get awkward bounce with his height"
+  ],
+  "badges": [
+    "Ideal for Conditions"
+  ],
+  "description": "Swings the new-ball and took two early wickets in the last game",
+  "careerStats": {
+    "matches": "19 Matches",
+    "batting": {
+      "innings": "19 Innings",
+      "wickets": "18",
+      "average": "30.39",
+      "economy": "8.42",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-12"
+    },
+    "bowling": null
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "2",
+          "22",
+          "5.50",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110289",
+          "1",
+          "0",
+          "16",
+          "16.00",
+          "HBT"
+        ],
+        "followUpLinkText": "hbt-vs-gam-qualifier-2-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110281",
+          "2",
+          "1",
+          "15",
+          "7.50",
+          "KDB"
+        ],
+        "followUpLinkText": "gam-vs-kdb-eliminator-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110273",
+          "2",
+          "2",
+          "22",
+          "11.00",
+          "HBT"
+        ],
+        "followUpLinkText": "gam-vs-hbt-21st-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110237",
+          "2",
+          "0",
+          "25",
+          "12.50",
+          "CLJR"
+        ],
+        "followUpLinkText": "cljr-vs-gam-14th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110213",
+          "2",
+          "1",
+          "26",
+          "13.00",
+          "JFT"
+        ],
+        "followUpLinkText": "gam-vs-jft-11th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110169",
+          "2",
+          "3",
+          "9",
+          "4.50",
+          "KDB"
+        ],
+        "followUpLinkText": "kdb-vs-gam-3rd-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "109603",
+          "2",
+          "1",
+          "28",
+          "14.00",
+          "DBL"
+        ],
+        "followUpLinkText": "upn-vs-dbl-eliminator-1-4v5-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109575",
+          "2",
+          "1",
+          "16",
+          "8.00",
+          "BGT"
+        ],
+        "followUpLinkText": "bgt-vs-upn-32nd-match-abu-dhabi-t10-league-2024"
+      },
+      {
+        "values": [
+          "109561",
+          "1",
+          "0",
+          "7",
+          "7.00",
+          "CBJ"
+        ],
+        "followUpLinkText": "cbj-vs-upn-30th-match-abu-dhabi-t10-league-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "wickets": "2",
+      "average": "29.50",
+      "economy": "7.38",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-22"
+    },
+    "bowling": null
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "2 Innings",
+      "wickets": "2",
+      "average": "29.50",
+      "economy": "7.38",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-22"
+    },
+    "bowling": null
+  }
+}

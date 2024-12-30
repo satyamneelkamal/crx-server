@@ -1,0 +1,343 @@
+{
+  "id": 10926,
+  "fullName": "Wanindu Hasaranga",
+  "country": "Sri Lanka",
+  "role": "Bowling Allrounder",
+  "faceImageId": 244676,
+  "batting": {
+    "batStyle": "Right-hand bat",
+    "battingRole": "Floater",
+    "battingPosition": "Lower Order"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm legbreak",
+    "bowlingRole": "Front-line spinner",
+    "bowlingVariations": [
+      "Leg Spin",
+      "Straight Ball",
+      "Googly"
+    ],
+    "stockDelivery": "Googly"
+  },
+  "keyInfo": [
+    "Genuine wicket-taker ",
+    "Adventurous batter with unorthodox hitting areas",
+    "Excellent fielder anywhere on the ground"
+  ],
+  "badges": [
+    "C/VC",
+    "Ideal for Conditions"
+  ],
+  "description": "Always a wicket-taking threat in this format. Aggressive hitter with bat",
+  "careerStats": {
+    "matches": "78 Matches",
+    "batting": {
+      "innings": "66 Innings",
+      "runs": "711",
+      "average": "13.67",
+      "strikeRate": "129.27",
+      "fifties": "2",
+      "hundreds": "0",
+      "highestScore": "71"
+    },
+    "bowling": {
+      "innings": "76 Innings",
+      "wickets": "129",
+      "average": "15.36",
+      "economy": "6.95",
+      "maidens": "2",
+      "4w": "4",
+      "bestPerformance": "4-9"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "5(2)",
+          "250.00",
+          "1",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "3(7)",
+          "42.86",
+          "0",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "22(23)",
+          "95.65",
+          "3",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108259",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108257",
+          "5*(2)",
+          "250.00",
+          "1",
+          "0",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108251",
+          "1(1)",
+          "100.00",
+          "0",
+          "0",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-1st-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "92851",
+          "10(6)",
+          "166.67",
+          "0",
+          "1",
+          "BR"
+        ],
+        "followUpLinkText": "br-vs-snp-18th-match-caribbean-premier-league-2024"
+      },
+      {
+        "values": [
+          "92829",
+          "3*(2)",
+          "150.00",
+          "0",
+          "0",
+          "SLK"
+        ],
+        "followUpLinkText": "slk-vs-snp-14th-match-caribbean-premier-league-2024"
+      },
+      {
+        "values": [
+          "92806",
+          "23(14)",
+          "164.29",
+          "1",
+          "2",
+          "ABF"
+        ],
+        "followUpLinkText": "snp-vs-abf-11th-match-caribbean-premier-league-2024"
+      },
+      {
+        "values": [
+          "92793",
+          "40(27)",
+          "148.15",
+          "5",
+          "1",
+          "BR"
+        ],
+        "followUpLinkText": "snp-vs-br-9th-match-caribbean-premier-league-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "4",
+          "2",
+          "33",
+          "8.25",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "108739",
+          "4",
+          "4",
+          "17",
+          "4.25",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "4",
+          "2",
+          "20",
+          "5.00",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108259",
+          "4",
+          "2",
+          "24",
+          "6.00",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108257",
+          "3",
+          "2",
+          "32",
+          "10.67",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108251",
+          "4",
+          "1",
+          "38",
+          "9.50",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-1st-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "92851",
+          "2",
+          "1",
+          "22",
+          "11.00",
+          "BR"
+        ],
+        "followUpLinkText": "br-vs-snp-18th-match-caribbean-premier-league-2024"
+      },
+      {
+        "values": [
+          "92829",
+          "3",
+          "2",
+          "13",
+          "4.33",
+          "SLK"
+        ],
+        "followUpLinkText": "slk-vs-snp-14th-match-caribbean-premier-league-2024"
+      },
+      {
+        "values": [
+          "92806",
+          "4",
+          "4",
+          "16",
+          "4.00",
+          "ABF"
+        ],
+        "followUpLinkText": "snp-vs-abf-11th-match-caribbean-premier-league-2024"
+      },
+      {
+        "values": [
+          "92793",
+          "4",
+          "1",
+          "33",
+          "8.25",
+          "BR"
+        ],
+        "followUpLinkText": "snp-vs-br-9th-match-caribbean-premier-league-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "11 Matches",
+    "batting": {
+      "innings": "9 Innings",
+      "runs": "89",
+      "average": "14.83",
+      "strikeRate": "123.61",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "22"
+    },
+    "bowling": {
+      "innings": "11 Innings",
+      "wickets": "17",
+      "average": "16.35",
+      "economy": "6.95",
+      "maidens": "1",
+      "4w": "1",
+      "bestPerformance": "4-17"
+    }
+  },
+  "In Bay Oval": {
+    "matches": "2 Matches",
+    "batting": {
+      "innings": "1 Innings",
+      "runs": "5",
+      "average": "5.00",
+      "strikeRate": "250.00",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "5"
+    },
+    "bowling": {
+      "innings": "2 Innings",
+      "wickets": "4",
+      "average": "15.25",
+      "economy": "7.62",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "2-28"
+    }
+  }
+}

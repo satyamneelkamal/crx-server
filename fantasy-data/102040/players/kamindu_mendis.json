@@ -1,0 +1,329 @@
+{
+  "id": 10940,
+  "fullName": "Kamindu Mendis",
+  "country": "Sri Lanka",
+  "role": "Batting Allrounder",
+  "faceImageId": 155713,
+  "batting": {
+    "batStyle": "Left-hand bat"
+  },
+  "bowling": {
+    "bowlStyle": "Right-arm offbreak"
+  },
+  "badges": [
+    "Ideal for Conditions",
+    "In form"
+  ],
+  "description": "Has been in great form with the bat in recent times. Can bowl too if needed",
+  "careerStats": {
+    "matches": "22 Matches",
+    "batting": {
+      "innings": "20 Innings",
+      "runs": "374",
+      "average": "19.68",
+      "strikeRate": "123.03",
+      "fifties": "2",
+      "hundreds": "0",
+      "highestScore": "65"
+    },
+    "bowling": {
+      "innings": "9 Innings",
+      "wickets": "2",
+      "average": "74.0",
+      "economy": "8.22",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "1-14"
+    }
+  },
+  "recentBatting": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Batting",
+    "headers": [
+      "Runs",
+      "SR",
+      "4's",
+      "6's",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "102036",
+          "0(1)",
+          "0.00",
+          "0",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "nz-vs-sl-1st-t20i-sri-lanka-tour-of-new-zealand-2024-25"
+      },
+      {
+        "values": [
+          "110265",
+          "17(10)",
+          "170.00",
+          "2",
+          "1",
+          "JFT"
+        ],
+        "followUpLinkText": "cljr-vs-jft-19th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110237",
+          "0(3)",
+          "0.00",
+          "0",
+          "0",
+          "GAM"
+        ],
+        "followUpLinkText": "cljr-vs-gam-14th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110185",
+          "7(7)",
+          "100.00",
+          "1",
+          "0",
+          "JFT"
+        ],
+        "followUpLinkText": "jft-vs-cljr-6th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "108739",
+          "1(5)",
+          "20.00",
+          "0",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108737",
+          "23(16)",
+          "143.75",
+          "4",
+          "0",
+          "NZ"
+        ],
+        "followUpLinkText": "sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108259",
+          "0(0)",
+          "",
+          "0",
+          "0",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108257",
+          "19(14)",
+          "135.71",
+          "1",
+          "1",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108251",
+          "51(40)",
+          "127.50",
+          "5",
+          "2",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-1st-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "101545",
+          "1(3)",
+          "33.33",
+          "0",
+          "0",
+          "IND"
+        ],
+        "followUpLinkText": "sl-vs-ind-3rd-t20i-india-tour-of-sri-lanka-2024"
+      }
+    ]
+  },
+  "recentBowling": {
+    "cardType": "matchesListCard",
+    "label": "Last 10 Matches",
+    "subLabel": "Bowling",
+    "headers": [
+      "Overs",
+      "Wickets",
+      "Runs",
+      "Economy",
+      "Opposition"
+    ],
+    "rows": [
+      {
+        "values": [
+          "110265",
+          "1",
+          "0",
+          "26",
+          "18.57",
+          "JFT"
+        ],
+        "followUpLinkText": "cljr-vs-jft-19th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "110237",
+          "2",
+          "2",
+          "14",
+          "7.00",
+          "GAM"
+        ],
+        "followUpLinkText": "cljr-vs-gam-14th-match-lanka-t10-super-league-2024"
+      },
+      {
+        "values": [
+          "108259",
+          "3",
+          "1",
+          "21",
+          "7.00",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108257",
+          "1",
+          "0",
+          "10",
+          "10.00",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "108251",
+          "2",
+          "1",
+          "14",
+          "7.00",
+          "WI"
+        ],
+        "followUpLinkText": "sl-vs-wi-1st-t20i-west-indies-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "101545",
+          "3",
+          "0",
+          "24",
+          "8.00",
+          "IND"
+        ],
+        "followUpLinkText": "sl-vs-ind-3rd-t20i-india-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "101535",
+          "1",
+          "0",
+          "9",
+          "9.00",
+          "IND"
+        ],
+        "followUpLinkText": "sl-vs-ind-1st-t20i-india-tour-of-sri-lanka-2024"
+      },
+      {
+        "values": [
+          "93112",
+          "1",
+          "0",
+          "9",
+          "9.00",
+          "JKS"
+        ],
+        "followUpLinkText": "jks-vs-kfs-qualifier-2-lanka-premier-league-2024"
+      },
+      {
+        "values": [
+          "93083",
+          "2",
+          "0",
+          "29",
+          "14.50",
+          "DAS"
+        ],
+        "followUpLinkText": "kfs-vs-das-18th-match-lanka-premier-league-2024"
+      },
+      {
+        "values": [
+          "93056",
+          "4",
+          "0",
+          "39",
+          "9.75",
+          "GAM"
+        ],
+        "followUpLinkText": "gam-vs-kfs-14th-match-lanka-premier-league-2024"
+      }
+    ]
+  },
+  "vs NZ": {
+    "matches": "3 Matches",
+    "batting": {
+      "innings": "3 Innings",
+      "runs": "24",
+      "average": "8.0",
+      "strikeRate": "109.09",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "23"
+    },
+    "bowling": {
+      "innings": "0 Innings",
+      "wickets": "0",
+      "average": "0",
+      "economy": "0",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "---"
+    }
+  },
+  "In Bay Oval": {
+    "matches": "1 Matches",
+    "batting": {
+      "innings": "1 Innings",
+      "runs": "0",
+      "average": "0.0",
+      "strikeRate": "0.0",
+      "fifties": "0",
+      "hundreds": "0",
+      "highestScore": "0"
+    },
+    "bowling": {
+      "innings": "0 Innings",
+      "wickets": "0",
+      "average": "0",
+      "economy": "0",
+      "maidens": "0",
+      "4w": "0",
+      "bestPerformance": "---"
+    }
+  }
+}
